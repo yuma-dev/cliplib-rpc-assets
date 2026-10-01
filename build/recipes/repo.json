@@ -1,0 +1,76 @@
+{
+  "game": "repo",
+  "name": "R.E.P.O.",
+  "steam_appid": "3241660",
+  "discord_ids": [
+    "1344368447928401961"
+  ],
+  "wiki": "https://repogame.fandom.com",
+  "items": [
+    {
+      "key": "lobby",
+      "label": "Truck",
+      "steam": "ss:0",
+      "aliases": [
+        "Level - Lobby",
+        "Level - Lobby Menu",
+        "Level - Main Menu"
+      ]
+    },
+    {
+      "key": "manor",
+      "label": "Headman Manor",
+      "page": "Headman Manor",
+      "aliases": [
+        "Level - Manor"
+      ]
+    },
+    {
+      "key": "wizard",
+      "label": "Swiftbroom Academy",
+      "page": "Swiftbroom Academy",
+      "aliases": [
+        "Level - Wizard"
+      ]
+    },
+    {
+      "key": "arctic",
+      "label": "McJannek Station",
+      "page": "McJannek Station",
+      "aliases": [
+        "Level - Arctic"
+      ]
+    },
+    {
+      "key": "museum",
+      "label": "Museum of Human Art",
+      "page": "Museum of Human Art",
+      "aliases": [
+        "Level - Museum"
+      ]
+    },
+    {
+      "key": "shop",
+      "label": "Service Station",
+      "page": "Service Station",
+      "aliases": [
+        "Level - Shop",
+        "Level - Shop Forest",
+        "Level - Shop Suburb"
+      ]
+    },
+    {
+      "key": "arena",
+      "label": "Disposal Arena",
+      "file": "Disposal Arena.png",
+      "aliases": [
+        "Level - Arena",
+        "Level - Arena Fight"
+      ]
+    }
+  ],
+  "wiki_trim": {
+    "top": 0.06,
+    "bottom": 0.37
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "game": "peak",
+  "name": "PEAK",
+  "steam_appid": "3527290",
+  "discord_ids": [
+    "1384276457596911676"
+  ],
+  "wiki": "https://peak.wiki.gg",
+  "items": [
+    {
+      "key": "airport",
+      "label": "Airport",
+      "file": "Airport Location.png",
+      "aliases": [
+        "Airport"
+      ]
+    },
+    {
+      "key": "shore",
+      "label": "Shore",
+      "file": "Shore Location.png",
+      "aliases": [
+        "Beach",
+        "Shore"
+      ]
+    },
+    {
+      "key": "tropics",
+      "label": "Tropics",
+      "file": "Tropics Location.png",
+      "aliases": [
+        "Tropics",
+        "Jungle"
+      ]
+    },
+    {
+      "key": "roots",
+      "label": "Roots",
+      "file": "Roots Location.jpg",
+      "aliases": [
+        "Roots"
+      ]
+    },
+    {
+      "key": "alpine",
+      "label": "Alpine",
+      "file": "Alpine Location.png",
+      "aliases": [
+        "Alpine",
+        "Snow"
+      ]
+    },
+    {
+      "key": "mesa",
+      "label": "Mesa",
+      "file": "Mesa Location.png",
+      "aliases": [
+        "Mesa",
+        "Desert"
+      ]
+    },
+    {
+      "key": "caldera",
+      "label": "Caldera",
+      "file": "Caldera Location.png",
+      "aliases": [
+        "Caldera"
+      ]
+    },
+    {
+      "key": "kiln",
+      "label": "The Kiln",
+      "file": "The Kiln.png",
+      "aliases": [
+        "Kiln",
+        "Volcano"
+      ]
+    },
+    {
+      "key": "peak",
+      "label": "The Peak",
+      "page": "Peak (biome)",
+      "aliases": [
+        "Peak"
+      ]
+    }
+  ]
+}

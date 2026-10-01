@@ -1,0 +1,26 @@
+{
+  "game": "abiotic-factor",
+  "name": "Abiotic Factor",
+  "steam_appid": "427410",
+  "discord_ids": [
+    "1235757738928111729"
+  ],
+  "items": [
+    {
+      "key": "menu",
+      "label": "Main menu",
+      "steam": "ss:0",
+      "aliases": [
+        "MainMenu"
+      ]
+    },
+    {
+      "key": "facility",
+      "label": "GATE Cascade Research Facility",
+      "steam": "ss:3",
+      "aliases": [
+        "Facility"
+      ]
+    }
+  ]
+}

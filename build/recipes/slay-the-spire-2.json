@@ -1,0 +1,92 @@
+{
+  "game": "slay-the-spire-2",
+  "name": "Slay the Spire II",
+  "steam_appid": "2868840",
+  "discord_ids": [
+    "1479192099734945802"
+  ],
+  "wiki": "https://slaythespire.wiki.gg",
+  "items": [
+    {
+      "key": "ironclad",
+      "label": "Ironclad",
+      "file": "StS2 Ironclad Rest.png",
+      "aliases": [
+        "IRONCLAD",
+        "CHARACTER.IRONCLAD"
+      ]
+    },
+    {
+      "key": "silent",
+      "label": "Silent",
+      "file": "StS2 Silent Rest.png",
+      "aliases": [
+        "SILENT",
+        "CHARACTER.SILENT"
+      ]
+    },
+    {
+      "key": "defect",
+      "label": "Defect",
+      "file": "StS2 Defect Rest.png",
+      "aliases": [
+        "DEFECT",
+        "CHARACTER.DEFECT"
+      ]
+    },
+    {
+      "key": "necrobinder",
+      "label": "Necrobinder",
+      "file": "StS2 Necrobinder Rest.png",
+      "aliases": [
+        "NECROBINDER",
+        "CHARACTER.NECROBINDER"
+      ]
+    },
+    {
+      "key": "regent",
+      "label": "Regent",
+      "file": "StS2 Regent Rest.png",
+      "aliases": [
+        "REGENT",
+        "CHARACTER.REGENT"
+      ]
+    },
+    {
+      "key": "overgrowth",
+      "label": "Overgrowth",
+      "file": "StS2 Overgrowth.png",
+      "aliases": [
+        "OVERGROWTH",
+        "ACT.OVERGROWTH"
+      ]
+    },
+    {
+      "key": "underdocks",
+      "label": "Underdocks",
+      "file": "StS2 Underdocks.png",
+      "aliases": [
+        "UNDERDOCKS",
+        "ACT.UNDERDOCKS"
+      ]
+    },
+    {
+      "key": "hive",
+      "label": "Hive",
+      "file": "StS2 Hive.png",
+      "aliases": [
+        "HIVE",
+        "ACT.HIVE"
+      ]
+    },
+    {
+      "key": "glory",
+      "label": "Glory",
+      "file": "StS2 Glory.png",
+      "aliases": [
+        "GLORY",
+        "ACT.GLORY"
+      ]
+    }
+  ]
+}

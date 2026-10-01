@@ -1,0 +1,97 @@
+{
+  "game": "golf-it",
+  "name": "Golf It!",
+  "steam_appid": "571740",
+  "discord_ids": [
+    "363409575321403402"
+  ],
+  "wiki": "https://golf-it.fandom.com",
+  "items": [
+    {
+      "key": "menu",
+      "label": "Main menu",
+      "steam": "ss:0",
+      "aliases": [
+        "MainMenu",
+        "FirstLoadLevel"
+      ]
+    },
+    {
+      "key": "grassland",
+      "label": "Grassland",
+      "page": "Grassland",
+      "aliases": [
+        "Grassland"
+      ]
+    },
+    {
+      "key": "graveyard",
+      "label": "Graveyard",
+      "page": "Graveyard",
+      "aliases": [
+        "Graveyard"
+      ]
+    },
+    {
+      "key": "deep-blue",
+      "label": "Deep Blue",
+      "page": "Deep Blue",
+      "aliases": [
+        "DeepBlue",
+        "Underwater"
+      ]
+    },
+    {
+      "key": "jade-temple",
+      "label": "Jade Temple",
+      "page": "Jade Temple",
+      "aliases": [
+        "JadeTemple",
+        "Jade",
+        "Temple"
+      ]
+    },
+    {
+      "key": "mines",
+      "label": "Mines",
+      "page": "Mines",
+      "aliases": [
+        "Mines",
+        "Mine"
+      ]
+    },
+    {
+      "key": "pirates-cove",
+      "label": "Pirates Cove",
+      "page": "Pirates Cove",
+      "aliases": [
+        "Pirate",
+        "PiratesCove"
+      ]
+    },
+    {
+      "key": "vr-classic",
+      "label": "VR Classic",
+      "page": "VR Classic",
+      "aliases": [
+        "VRClassic",
+        "Classic"
+      ]
+    },
+    {
+      "key": "winterland",
+      "label": "Winterland",
+      "page": "Winterland",
+      "aliases": [
+        "Winterland",
+        "Winter"
+      ]
+    }
+  ],
+  "wiki_trim": {
+    "top": 0.07,
+    "left": 0.05,
+    "right": 0.05,
+    "bottom": 0.17
+  }
+}

@@ -1,0 +1,27 @@
+# rebuilds the pack monthly and opens a pull request when a wiki or Steam image changed
+name: refresh
+on:
+  schedule:
+    - cron: "17 4 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - run: node build/build.mjs
+      - uses: peter-evans/create-pull-request@v7
+        with:
+          branch: refresh
+          title: "refresh: images from the monthly rebuild"
+          commit-message: "refresh: images from the monthly rebuild"
+          body: Review preview.html before merging, then tag a new version so jsDelivr serves it.

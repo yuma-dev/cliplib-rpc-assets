@@ -1,0 +1,506 @@
+{
+  "games": {
+    "abiotic-factor": {
+      "name": "Abiotic Factor",
+      "steam_appid": "427410",
+      "discord_ids": [
+        "1235757738928111729"
+      ],
+      "items": {
+        "menu": {
+          "label": "Main menu",
+          "file": "abiotic-factor/menu.webp",
+          "aliases": [
+            "MainMenu"
+          ]
+        },
+        "facility": {
+          "label": "GATE Cascade Research Facility",
+          "file": "abiotic-factor/facility.webp",
+          "aliases": [
+            "Facility"
+          ]
+        }
+      }
+    },
+    "fortnite": {
+      "name": "Fortnite",
+      "steam_appid": null,
+      "discord_ids": [
+        "1402418703554842694"
+      ],
+      "items": {
+        "menu": {
+          "label": "Lobby",
+          "file": "fortnite/menu.webp",
+          "aliases": [
+            "Frontend"
+          ]
+        },
+        "hermes": {
+          "label": "Battle Royale island",
+          "file": "fortnite/hermes.webp",
+          "aliases": [
+            "Hermes_Terrain"
+          ]
+        }
+      }
+    },
+    "golf-it": {
+      "name": "Golf It!",
+      "steam_appid": "571740",
+      "discord_ids": [
+        "363409575321403402"
+      ],
+      "items": {
+        "menu": {
+          "label": "Main menu",
+          "file": "golf-it/menu.webp",
+          "aliases": [
+            "MainMenu",
+            "FirstLoadLevel"
+          ]
+        },
+        "grassland": {
+          "label": "Grassland",
+          "file": "golf-it/grassland.webp",
+          "aliases": [
+            "Grassland"
+          ]
+        },
+        "graveyard": {
+          "label": "Graveyard",
+          "file": "golf-it/graveyard.webp",
+          "aliases": [
+            "Graveyard"
+          ]
+        },
+        "deep-blue": {
+          "label": "Deep Blue",
+          "file": "golf-it/deep-blue.webp",
+          "aliases": [
+            "DeepBlue",
+            "Underwater"
+          ]
+        },
+        "jade-temple": {
+          "label": "Jade Temple",
+          "file": "golf-it/jade-temple.webp",
+          "aliases": [
+            "JadeTemple",
+            "Jade",
+            "Temple"
+          ]
+        },
+        "mines": {
+          "label": "Mines",
+          "file": "golf-it/mines.webp",
+          "aliases": [
+            "Mines",
+            "Mine"
+          ]
+        },
+        "pirates-cove": {
+          "label": "Pirates Cove",
+          "file": "golf-it/pirates-cove.webp",
+          "aliases": [
+            "Pirate",
+            "PiratesCove"
+          ]
+        },
+        "vr-classic": {
+          "label": "VR Classic",
+          "file": "golf-it/vr-classic.webp",
+          "aliases": [
+            "VRClassic",
+            "Classic"
+          ]
+        },
+        "winterland": {
+          "label": "Winterland",
+          "file": "golf-it/winterland.webp",
+          "aliases": [
+            "Winterland",
+            "Winter"
+          ]
+        }
+      }
+    },
+    "peak": {
+      "name": "PEAK",
+      "steam_appid": "3527290",
+      "discord_ids": [
+        "1384276457596911676"
+      ],
+      "items": {
+        "airport": {
+          "label": "Airport",
+          "file": "peak/airport.webp",
+          "aliases": [
+            "Airport"
+          ]
+        },
+        "shore": {
+          "label": "Shore",
+          "file": "peak/shore.webp",
+          "aliases": [
+            "Beach",
+            "Shore"
+          ]
+        },
+        "tropics": {
+          "label": "Tropics",
+          "file": "peak/tropics.webp",
+          "aliases": [
+            "Tropics",
+            "Jungle"
+          ]
+        },
+        "roots": {
+          "label": "Roots",
+          "file": "peak/roots.webp",
+          "aliases": [
+            "Roots"
+          ]
+        },
+        "alpine": {
+          "label": "Alpine",
+          "file": "peak/alpine.webp",
+          "aliases": [
+            "Alpine",
+            "Snow"
+          ]
+        },
+        "mesa": {
+          "label": "Mesa",
+          "file": "peak/mesa.webp",
+          "aliases": [
+            "Mesa",
+            "Desert"
+          ]
+        },
+        "caldera": {
+          "label": "Caldera",
+          "file": "peak/caldera.webp",
+          "aliases": [
+            "Caldera"
+          ]
+        },
+        "kiln": {
+          "label": "The Kiln",
+          "file": "peak/kiln.webp",
+          "aliases": [
+            "Kiln",
+            "Volcano"
+          ]
+        },
+        "peak": {
+          "label": "The Peak",
+          "file": "peak/peak.webp",
+          "aliases": [
+            "Peak"
+          ]
+        }
+      }
+    },
+    "repo": {
+      "name": "R.E.P.O.",
+      "steam_appid": "3241660",
+      "discord_ids": [
+        "1344368447928401961"
+      ],
+      "items": {
+        "lobby": {
+          "label": "Truck",
+          "file": "repo/lobby.webp",
+          "aliases": [
+            "Level - Lobby",
+            "Level - Lobby Menu",
+            "Level - Main Menu"
+          ]
+        },
+        "manor": {
+          "label": "Headman Manor",
+          "file": "repo/manor.webp",
+          "aliases": [
+            "Level - Manor"
+          ]
+        },
+        "wizard": {
+          "label": "Swiftbroom Academy",
+          "file": "repo/wizard.webp",
+          "aliases": [
+            "Level - Wizard"
+          ]
+        },
+        "arctic": {
+          "label": "McJannek Station",
+          "file": "repo/arctic.webp",
+          "aliases": [
+            "Level - Arctic"
+          ]
+        },
+        "museum": {
+          "label": "Museum of Human Art",
+          "file": "repo/museum.webp",
+          "aliases": [
+            "Level - Museum"
+          ]
+        },
+        "shop": {
+          "label": "Service Station",
+          "file": "repo/shop.webp",
+          "aliases": [
+            "Level - Shop",
+            "Level - Shop Forest",
+            "Level - Shop Suburb"
+          ]
+        },
+        "arena": {
+          "label": "Disposal Arena",
+          "file": "repo/arena.webp",
+          "aliases": [
+            "Level - Arena",
+            "Level - Arena Fight"
+          ]
+        }
+      }
+    },
+    "rv-there-yet": {
+      "name": "RV There Yet?",
+      "steam_appid": "3949040",
+      "discord_ids": [
+        "1430209091942482050"
+      ],
+      "items": {
+        "menu": {
+          "label": "Main menu",
+          "file": "rv-there-yet/menu.webp",
+          "aliases": [
+            "Frontend_Snow",
+            "Frontend"
+          ]
+        },
+        "garage": {
+          "label": "Garage",
+          "file": "rv-there-yet/garage.webp",
+          "aliases": [
+            "Garage"
+          ]
+        },
+        "gas-station": {
+          "label": "Gas Station",
+          "file": "rv-there-yet/gas-station.webp",
+          "aliases": [
+            "GasStation"
+          ]
+        },
+        "mabutts-valley": {
+          "label": "Mabutts Valley",
+          "file": "rv-there-yet/mabutts-valley.webp",
+          "aliases": [
+            "RideMap"
+          ]
+        },
+        "mt-yurbuttsk": {
+          "label": "Mt. Yurbuttsk",
+          "file": "rv-there-yet/mt-yurbuttsk.webp",
+          "aliases": [
+            "SnowLevel"
+          ]
+        }
+      }
+    },
+    "satisfactory": {
+      "name": "Satisfactory",
+      "steam_appid": "526870",
+      "discord_ids": [
+        "1402416959819350078"
+      ],
+      "items": {
+        "menu": {
+          "label": "Main menu",
+          "file": "satisfactory/menu.webp",
+          "aliases": [
+            "Map_Menu_1_02",
+            "Map_Menu_1_01",
+            "Map_Menu"
+          ]
+        },
+        "world": {
+          "label": "The world",
+          "file": "satisfactory/world.webp",
+          "aliases": [
+            "Persistent_Level"
+          ]
+        }
+      }
+    },
+    "slay-the-spire-2": {
+      "name": "Slay the Spire II",
+      "steam_appid": "2868840",
+      "discord_ids": [
+        "1479192099734945802"
+      ],
+      "items": {
+        "ironclad": {
+          "label": "Ironclad",
+          "file": "slay-the-spire-2/ironclad.webp",
+          "aliases": [
+            "IRONCLAD",
+            "CHARACTER.IRONCLAD"
+          ]
+        },
+        "silent": {
+          "label": "Silent",
+          "file": "slay-the-spire-2/silent.webp",
+          "aliases": [
+            "SILENT",
+            "CHARACTER.SILENT"
+          ]
+        },
+        "defect": {
+          "label": "Defect",
+          "file": "slay-the-spire-2/defect.webp",
+          "aliases": [
+            "DEFECT",
+            "CHARACTER.DEFECT"
+          ]
+        },
+        "necrobinder": {
+          "label": "Necrobinder",
+          "file": "slay-the-spire-2/necrobinder.webp",
+          "aliases": [
+            "NECROBINDER",
+            "CHARACTER.NECROBINDER"
+          ]
+        },
+        "regent": {
+          "label": "Regent",
+          "file": "slay-the-spire-2/regent.webp",
+          "aliases": [
+            "REGENT",
+            "CHARACTER.REGENT"
+          ]
+        },
+        "overgrowth": {
+          "label": "Overgrowth",
+          "file": "slay-the-spire-2/overgrowth.webp",
+          "aliases": [
+            "OVERGROWTH",
+            "ACT.OVERGROWTH"
+          ]
+        },
+        "underdocks": {
+          "label": "Underdocks",
+          "file": "slay-the-spire-2/underdocks.webp",
+          "aliases": [
+            "UNDERDOCKS",
+            "ACT.UNDERDOCKS"
+          ]
+        },
+        "hive": {
+          "label": "Hive",
+          "file": "slay-the-spire-2/hive.webp",
+          "aliases": [
+            "HIVE",
+            "ACT.HIVE"
+          ]
+        },
+        "glory": {
+          "label": "Glory",
+          "file": "slay-the-spire-2/glory.webp",
+          "aliases": [
+            "GLORY",
+            "ACT.GLORY"
+          ]
+        }
+      }
+    },
+    "subnautica-2": {
+      "name": "Subnautica 2",
+      "steam_appid": "1962700",
+      "discord_ids": [
+        "1505320535268261888"
+      ],
+      "items": {
+        "menu": {
+          "label": "Lobby",
+          "file": "subnautica-2/menu.webp",
+          "aliases": [
+            "L_ClientLobby"
+          ]
+        },
+        "ocean": {
+          "label": "Underwater",
+          "file": "subnautica-2/ocean.webp",
+          "aliases": [
+            "L_Main"
+          ]
+        }
+      }
+    },
+    "valheim": {
+      "name": "Valheim",
+      "steam_appid": "892970",
+      "discord_ids": [
+        "1124358970618953818"
+      ],
+      "items": {
+        "menu": {
+          "label": "Main menu",
+          "file": "valheim/menu.webp",
+          "aliases": [
+            "start"
+          ]
+        },
+        "meadows": {
+          "label": "Meadows",
+          "file": "valheim/meadows.webp",
+          "aliases": []
+        },
+        "black-forest": {
+          "label": "Black Forest",
+          "file": "valheim/black-forest.webp",
+          "aliases": []
+        },
+        "swamp": {
+          "label": "Swamp",
+          "file": "valheim/swamp.webp",
+          "aliases": []
+        },
+        "mountain": {
+          "label": "Mountain",
+          "file": "valheim/mountain.webp",
+          "aliases": []
+        },
+        "plains": {
+          "label": "Plains",
+          "file": "valheim/plains.webp",
+          "aliases": []
+        },
+        "mistlands": {
+          "label": "Mistlands",
+          "file": "valheim/mistlands.webp",
+          "aliases": []
+        },
+        "ashlands": {
+          "label": "Ashlands",
+          "file": "valheim/ashlands.webp",
+          "aliases": []
+        },
+        "deep-north": {
+          "label": "Deep North",
+          "file": "valheim/deep-north.webp",
+          "aliases": []
+        },
+        "ocean": {
+          "label": "Ocean",
+          "file": "valheim/ocean.webp",
+          "aliases": []
+        }
+      }
+    }
+  },
+  "generated": "2026-10-01"
+}

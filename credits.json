@@ -1,0 +1,287 @@
+{
+  "abiotic-factor/facility.webp": {
+    "source": "https://store.steampowered.com/app/427410",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/702ec91ec4e414f11204895bf661ad3e0d84d69a/ss_702ec91ec4e414f11204895bf661ad3e0d84d69a.1920x1080.jpg?t=1788195774",
+    "game": "Abiotic Factor"
+  },
+  "abiotic-factor/menu.webp": {
+    "source": "https://store.steampowered.com/app/427410",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/ss_f57e6a13592c1dee5d903218e31d4add71dbaa83.1920x1080.jpg?t=1788195774",
+    "game": "Abiotic Factor"
+  },
+  "fortnite/hermes.webp": {
+    "source": "https://fortnite-api.com",
+    "image": "https://fortnite-api.com/images/map.png",
+    "game": "Fortnite"
+  },
+  "fortnite/menu.webp": {
+    "source": "https://fortnite-api.com",
+    "image": "https://fortnite-api.com/images/playlists/playlist_defaultsolo/showcase.png",
+    "game": "Fortnite"
+  },
+  "golf-it/deep-blue.webp": {
+    "source": "https://golf-it.fandom.com/wiki/Deep_Blue",
+    "image": "https://static.wikia.nocookie.net/golf-it/images/a/a5/Deep_Blue.png/revision/latest?cb=20230821042057",
+    "game": "Golf It!"
+  },
+  "golf-it/grassland.webp": {
+    "source": "https://golf-it.fandom.com/wiki/Grassland",
+    "image": "https://static.wikia.nocookie.net/golf-it/images/4/40/Grassland.png/revision/latest?cb=20230821042058",
+    "game": "Golf It!"
+  },
+  "golf-it/graveyard.webp": {
+    "source": "https://golf-it.fandom.com/wiki/Graveyard",
+    "image": "https://static.wikia.nocookie.net/golf-it/images/d/d5/Graveyard.png/revision/latest?cb=20230821042059",
+    "game": "Golf It!"
+  },
+  "golf-it/jade-temple.webp": {
+    "source": "https://golf-it.fandom.com/wiki/Jade_Temple",
+    "image": "https://static.wikia.nocookie.net/golf-it/images/f/f9/Jade_Temple.png/revision/latest?cb=20230821042101",
+    "game": "Golf It!"
+  },
+  "golf-it/menu.webp": {
+    "source": "https://store.steampowered.com/app/571740",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571740/ss_67958f0e53aeccdcfd9f2099715ba93da9b3f10c.1920x1080.jpg?t=1790080653",
+    "game": "Golf It!"
+  },
+  "golf-it/mines.webp": {
+    "source": "https://golf-it.fandom.com/wiki/Mines",
+    "image": "https://static.wikia.nocookie.net/golf-it/images/d/d7/Mines.png/revision/latest?cb=20230821042101",
+    "game": "Golf It!"
+  },
+  "golf-it/pirates-cove.webp": {
+    "source": "https://golf-it.fandom.com/wiki/Pirates_Cove",
+    "image": "https://static.wikia.nocookie.net/golf-it/images/f/fe/Pirates_Cove.png/revision/latest?cb=20230821042103",
+    "game": "Golf It!"
+  },
+  "golf-it/vr-classic.webp": {
+    "source": "https://golf-it.fandom.com/wiki/VR_Classic",
+    "image": "https://static.wikia.nocookie.net/golf-it/images/0/0f/VR_Classic.png/revision/latest?cb=20230821042103",
+    "game": "Golf It!"
+  },
+  "golf-it/winterland.webp": {
+    "source": "https://golf-it.fandom.com/wiki/Winterland",
+    "image": "https://static.wikia.nocookie.net/golf-it/images/b/b1/Winterland.png/revision/latest?cb=20230821042104",
+    "game": "Golf It!"
+  },
+  "peak/airport.webp": {
+    "source": "https://peak.wiki.gg/wiki/File%3AAirport_Location.png",
+    "image": "https://peak.wiki.gg/images/Airport_Location.png?165e3e",
+    "game": "PEAK"
+  },
+  "peak/alpine.webp": {
+    "source": "https://peak.wiki.gg/wiki/File%3AAlpine_Location.png",
+    "image": "https://peak.wiki.gg/images/Alpine_Location.png?174f95",
+    "game": "PEAK"
+  },
+  "peak/caldera.webp": {
+    "source": "https://peak.wiki.gg/wiki/File%3ACaldera_Location.png",
+    "image": "https://peak.wiki.gg/images/Caldera_Location.png?3eba75",
+    "game": "PEAK"
+  },
+  "peak/kiln.webp": {
+    "source": "https://peak.wiki.gg/wiki/File%3AThe_Kiln.png",
+    "image": "https://peak.wiki.gg/images/The_Kiln.png?406d62",
+    "game": "PEAK"
+  },
+  "peak/mesa.webp": {
+    "source": "https://peak.wiki.gg/wiki/File%3AMesa_Location.png",
+    "image": "https://peak.wiki.gg/images/Mesa_Location.png?93565d",
+    "game": "PEAK"
+  },
+  "peak/peak.webp": {
+    "source": "https://peak.wiki.gg/wiki/Peak_(biome)",
+    "image": "https://peak.wiki.gg/images/Kiln_peak_bridge.jpg?fb174d",
+    "game": "PEAK"
+  },
+  "peak/roots.webp": {
+    "source": "https://peak.wiki.gg/wiki/File%3ARoots_Location.jpg",
+    "image": "https://peak.wiki.gg/images/Roots_Location.jpg?f11a86",
+    "game": "PEAK"
+  },
+  "peak/shore.webp": {
+    "source": "https://peak.wiki.gg/wiki/File%3AShore_Location.png",
+    "image": "https://peak.wiki.gg/images/Shore_Location.png?a15d43",
+    "game": "PEAK"
+  },
+  "peak/tropics.webp": {
+    "source": "https://peak.wiki.gg/wiki/File%3ATropics_Location.png",
+    "image": "https://peak.wiki.gg/images/Tropics_Location.png?f80c1a",
+    "game": "PEAK"
+  },
+  "repo/arctic.webp": {
+    "source": "https://repogame.fandom.com/wiki/McJannek_Station",
+    "image": "https://static.wikia.nocookie.net/repogame/images/3/30/Mcjannek.png/revision/latest?cb=20250326124314",
+    "game": "R.E.P.O."
+  },
+  "repo/arena.webp": {
+    "source": "https://repogame.fandom.com/wiki/File%3ADisposal_Arena.png",
+    "image": "https://static.wikia.nocookie.net/repogame/images/6/6b/Disposal_Arena.png/revision/latest?cb=20250228234021",
+    "game": "R.E.P.O."
+  },
+  "repo/lobby.webp": {
+    "source": "https://store.steampowered.com/app/3241660",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_e6babaab52581f81df91e50768cee6a9334ef6ec.1920x1080.jpg?t=1778158882",
+    "game": "R.E.P.O."
+  },
+  "repo/manor.webp": {
+    "source": "https://repogame.fandom.com/wiki/Headman_Manor",
+    "image": "https://static.wikia.nocookie.net/repogame/images/f/ff/Headman_Manor.png/revision/latest?cb=20250228233001",
+    "game": "R.E.P.O."
+  },
+  "repo/museum.webp": {
+    "source": "https://repogame.fandom.com/wiki/Museum_of_Human_Art",
+    "image": "https://static.wikia.nocookie.net/repogame/images/a/ae/Museum.png/revision/latest?cb=20250526222712",
+    "game": "R.E.P.O."
+  },
+  "repo/shop.webp": {
+    "source": "https://repogame.fandom.com/wiki/Service_Station",
+    "image": "https://static.wikia.nocookie.net/repogame/images/9/9a/Service_Station.png/revision/latest?cb=20250228233525",
+    "game": "R.E.P.O."
+  },
+  "repo/wizard.webp": {
+    "source": "https://repogame.fandom.com/wiki/Swiftbroom_Academy",
+    "image": "https://static.wikia.nocookie.net/repogame/images/1/17/Swiftbroom_Academy.png/revision/latest?cb=20250228233751",
+    "game": "R.E.P.O."
+  },
+  "rv-there-yet/garage.webp": {
+    "source": "https://rvthereyet.fandom.com/wiki/Garage",
+    "image": "https://static.wikia.nocookie.net/rvthereyet/images/8/88/Garage.png/revision/latest?cb=20251229222013",
+    "game": "RV There Yet?"
+  },
+  "rv-there-yet/gas-station.webp": {
+    "source": "https://rvthereyet.fandom.com/wiki/Gas_Station",
+    "image": "https://static.wikia.nocookie.net/rvthereyet/images/2/27/Gas_Station.png/revision/latest?cb=20251229222540",
+    "game": "RV There Yet?"
+  },
+  "rv-there-yet/mabutts-valley.webp": {
+    "source": "https://store.steampowered.com/app/3949040",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/f5663e0220e188d4c9db0789f0cbb4ddefd762d5/ss_f5663e0220e188d4c9db0789f0cbb4ddefd762d5.1920x1080.jpg?t=1789134289",
+    "game": "RV There Yet?"
+  },
+  "rv-there-yet/menu.webp": {
+    "source": "https://store.steampowered.com/app/3949040",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/ed2f7080c6622688a72a86ca85af600f2a2bdfb9/ss_ed2f7080c6622688a72a86ca85af600f2a2bdfb9.1920x1080.jpg?t=1789134289",
+    "game": "RV There Yet?"
+  },
+  "rv-there-yet/mt-yurbuttsk.webp": {
+    "source": "https://store.steampowered.com/app/3949040",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/aa6d58ff1f0eb5c5b3e6d7cc10c1576b62a745b0/ss_aa6d58ff1f0eb5c5b3e6d7cc10c1576b62a745b0.1920x1080.jpg?t=1789134289",
+    "game": "RV There Yet?"
+  },
+  "satisfactory/menu.webp": {
+    "source": "https://store.steampowered.com/app/526870",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/ss_9083ccf8fbb22c4068a6e233e3de343f815f9dc1.1920x1080.jpg?t=1788349095",
+    "game": "Satisfactory"
+  },
+  "satisfactory/world.webp": {
+    "source": "https://store.steampowered.com/app/526870",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/ss_b1104309f1c22c85de6ad6c401e6d889411c14d2.1920x1080.jpg?t=1788349095",
+    "game": "Satisfactory"
+  },
+  "slay-the-spire-2/defect.webp": {
+    "source": "https://slaythespire.wiki.gg/wiki/File%3AStS2_Defect_Rest.png",
+    "image": "https://slaythespire.wiki.gg/images/StS2_Defect_Rest.png?263c82",
+    "game": "Slay the Spire II"
+  },
+  "slay-the-spire-2/glory.webp": {
+    "source": "https://slaythespire.wiki.gg/wiki/File%3AStS2_Glory.png",
+    "image": "https://slaythespire.wiki.gg/images/StS2_Glory.png?c21abb",
+    "game": "Slay the Spire II"
+  },
+  "slay-the-spire-2/hive.webp": {
+    "source": "https://slaythespire.wiki.gg/wiki/File%3AStS2_Hive.png",
+    "image": "https://slaythespire.wiki.gg/images/StS2_Hive.png?8d91e2",
+    "game": "Slay the Spire II"
+  },
+  "slay-the-spire-2/ironclad.webp": {
+    "source": "https://slaythespire.wiki.gg/wiki/File%3AStS2_Ironclad_Rest.png",
+    "image": "https://slaythespire.wiki.gg/images/StS2_Ironclad_Rest.png?9b647a",
+    "game": "Slay the Spire II"
+  },
+  "slay-the-spire-2/necrobinder.webp": {
+    "source": "https://slaythespire.wiki.gg/wiki/File%3AStS2_Necrobinder_Rest.png",
+    "image": "https://slaythespire.wiki.gg/images/StS2_Necrobinder_Rest.png?4acc21",
+    "game": "Slay the Spire II"
+  },
+  "slay-the-spire-2/overgrowth.webp": {
+    "source": "https://slaythespire.wiki.gg/wiki/File%3AStS2_Overgrowth.png",
+    "image": "https://slaythespire.wiki.gg/images/StS2_Overgrowth.png?b9b9a4",
+    "game": "Slay the Spire II"
+  },
+  "slay-the-spire-2/regent.webp": {
+    "source": "https://slaythespire.wiki.gg/wiki/File%3AStS2_Regent_Rest.png",
+    "image": "https://slaythespire.wiki.gg/images/StS2_Regent_Rest.png?c1953a",
+    "game": "Slay the Spire II"
+  },
+  "slay-the-spire-2/silent.webp": {
+    "source": "https://slaythespire.wiki.gg/wiki/File%3AStS2_Silent_Rest.png",
+    "image": "https://slaythespire.wiki.gg/images/StS2_Silent_Rest.png?adb656",
+    "game": "Slay the Spire II"
+  },
+  "slay-the-spire-2/underdocks.webp": {
+    "source": "https://slaythespire.wiki.gg/wiki/File%3AStS2_Underdocks.png",
+    "image": "https://slaythespire.wiki.gg/images/StS2_Underdocks.png?772c9c",
+    "game": "Slay the Spire II"
+  },
+  "subnautica-2/menu.webp": {
+    "source": "https://store.steampowered.com/app/1962700",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/823b102b09530bbf588f5e9752cb52f1681dc992/ss_823b102b09530bbf588f5e9752cb52f1681dc992.1920x1080.jpg?t=1785967256",
+    "game": "Subnautica 2"
+  },
+  "subnautica-2/ocean.webp": {
+    "source": "https://store.steampowered.com/app/1962700",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/e631ef3b91faacacb5a2c823d0b979083548d66f/ss_e631ef3b91faacacb5a2c823d0b979083548d66f.1920x1080.jpg?t=1785967256",
+    "game": "Subnautica 2"
+  },
+  "valheim/ashlands.webp": {
+    "source": "https://valheim.fandom.com/wiki/Ashlands",
+    "image": "https://static.wikia.nocookie.net/valheim/images/5/56/Biome_ashlands.png/revision/latest?cb=20240501080655",
+    "game": "Valheim"
+  },
+  "valheim/black-forest.webp": {
+    "source": "https://valheim.fandom.com/wiki/Black_Forest",
+    "image": "https://static.wikia.nocookie.net/valheim/images/c/cf/Biome_blackforest.png/revision/latest?cb=20210215131214",
+    "game": "Valheim"
+  },
+  "valheim/deep-north.webp": {
+    "source": "https://valheim.fandom.com/wiki/Deep_North",
+    "image": "https://static.wikia.nocookie.net/valheim/images/2/22/Deepnorth.png/revision/latest?cb=20240501082430",
+    "game": "Valheim"
+  },
+  "valheim/meadows.webp": {
+    "source": "https://valheim.fandom.com/wiki/Meadows",
+    "image": "https://static.wikia.nocookie.net/valheim/images/5/52/Biome_meadows.png/revision/latest?cb=20210215131217",
+    "game": "Valheim"
+  },
+  "valheim/menu.webp": {
+    "source": "https://store.steampowered.com/app/892970",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/5a31353178f635b67f0c8720ebb8a1a95b637276/ss_5a31353178f635b67f0c8720ebb8a1a95b637276.1920x1080.jpg?t=1790220314",
+    "game": "Valheim"
+  },
+  "valheim/mistlands.webp": {
+    "source": "https://valheim.fandom.com/wiki/Mistlands",
+    "image": "https://static.wikia.nocookie.net/valheim/images/1/1e/Biome_mistlands.png/revision/latest?cb=20221209075159",
+    "game": "Valheim"
+  },
+  "valheim/mountain.webp": {
+    "source": "https://valheim.fandom.com/wiki/Mountain",
+    "image": "https://static.wikia.nocookie.net/valheim/images/7/78/Biome_mountain.png/revision/latest?cb=20210215131220",
+    "game": "Valheim"
+  },
+  "valheim/ocean.webp": {
+    "source": "https://valheim.fandom.com/wiki/Ocean",
+    "image": "https://static.wikia.nocookie.net/valheim/images/6/62/Biome_ocean.png/revision/latest?cb=20210215131222",
+    "game": "Valheim"
+  },
+  "valheim/plains.webp": {
+    "source": "https://valheim.fandom.com/wiki/Plains",
+    "image": "https://static.wikia.nocookie.net/valheim/images/9/91/Biome_heath.png/revision/latest?cb=20210215131216",
+    "game": "Valheim"
+  },
+  "valheim/swamp.webp": {
+    "source": "https://valheim.fandom.com/wiki/Swamp",
+    "image": "https://static.wikia.nocookie.net/valheim/images/d/d4/Biome_swamp.png/revision/latest?cb=20210215131223",
+    "game": "Valheim"
+  }
+}

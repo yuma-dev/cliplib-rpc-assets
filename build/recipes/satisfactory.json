@@ -1,0 +1,28 @@
+{
+  "game": "satisfactory",
+  "name": "Satisfactory",
+  "steam_appid": "526870",
+  "discord_ids": [
+    "1402416959819350078"
+  ],
+  "items": [
+    {
+      "key": "menu",
+      "label": "Main menu",
+      "steam": "ss:0",
+      "aliases": [
+        "Map_Menu_1_02",
+        "Map_Menu_1_01",
+        "Map_Menu"
+      ]
+    },
+    {
+      "key": "world",
+      "label": "The world",
+      "steam": "ss:2",
+      "aliases": [
+        "Persistent_Level"
+      ]
+    }
+  ]
+}

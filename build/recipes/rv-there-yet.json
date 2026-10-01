@@ -1,0 +1,52 @@
+{
+  "game": "rv-there-yet",
+  "name": "RV There Yet?",
+  "steam_appid": "3949040",
+  "discord_ids": [
+    "1430209091942482050"
+  ],
+  "wiki": "https://rvthereyet.fandom.com",
+  "items": [
+    {
+      "key": "menu",
+      "label": "Main menu",
+      "steam": "ss:0",
+      "aliases": [
+        "Frontend_Snow",
+        "Frontend"
+      ]
+    },
+    {
+      "key": "garage",
+      "label": "Garage",
+      "page": "Garage",
+      "aliases": [
+        "Garage"
+      ]
+    },
+    {
+      "key": "gas-station",
+      "label": "Gas Station",
+      "page": "Gas Station",
+      "aliases": [
+        "GasStation"
+      ]
+    },
+    {
+      "key": "mabutts-valley",
+      "label": "Mabutts Valley",
+      "steam": "ss:2",
+      "aliases": [
+        "RideMap"
+      ]
+    },
+    {
+      "key": "mt-yurbuttsk",
+      "label": "Mt. Yurbuttsk",
+      "steam": "ss:4",
+      "aliases": [
+        "SnowLevel"
+      ]
+    }
+  ]
+}

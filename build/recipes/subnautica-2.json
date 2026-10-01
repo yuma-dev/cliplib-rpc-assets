@@ -1,0 +1,26 @@
+{
+  "game": "subnautica-2",
+  "name": "Subnautica 2",
+  "steam_appid": "1962700",
+  "discord_ids": [
+    "1505320535268261888"
+  ],
+  "items": [
+    {
+      "key": "menu",
+      "label": "Lobby",
+      "steam": "ss:0",
+      "aliases": [
+        "L_ClientLobby"
+      ]
+    },
+    {
+      "key": "ocean",
+      "label": "Underwater",
+      "steam": "ss:1",
+      "aliases": [
+        "L_Main"
+      ]
+    }
+  ]
+}

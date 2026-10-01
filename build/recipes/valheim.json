@@ -1,0 +1,70 @@
+{
+  "game": "valheim",
+  "name": "Valheim",
+  "steam_appid": "892970",
+  "discord_ids": [
+    "1124358970618953818"
+  ],
+  "wiki": "https://valheim.fandom.com",
+  "items": [
+    {
+      "key": "menu",
+      "label": "Main menu",
+      "steam": "ss:0",
+      "aliases": [
+        "start"
+      ]
+    },
+    {
+      "key": "meadows",
+      "label": "Meadows",
+      "page": "Meadows"
+    },
+    {
+      "key": "black-forest",
+      "label": "Black Forest",
+      "page": "Black Forest"
+    },
+    {
+      "key": "swamp",
+      "label": "Swamp",
+      "page": "Swamp"
+    },
+    {
+      "key": "mountain",
+      "label": "Mountain",
+      "page": "Mountain"
+    },
+    {
+      "key": "plains",
+      "label": "Plains",
+      "page": "Plains"
+    },
+    {
+      "key": "mistlands",
+      "label": "Mistlands",
+      "page": "Mistlands"
+    },
+    {
+      "key": "ashlands",
+      "label": "Ashlands",
+      "page": "Ashlands"
+    },
+    {
+      "key": "deep-north",
+      "label": "Deep North",
+      "page": "Deep North"
+    },
+    {
+      "key": "ocean",
+      "label": "Ocean",
+      "page": "Ocean"
+    }
+  ],
+  "wiki_trim": {
+    "top": 0.12,
+    "left": 0.12,
+    "right": 0.12,
+    "bottom": 0.12
+  }
+}

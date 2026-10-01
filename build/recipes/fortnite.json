@@ -1,0 +1,28 @@
+{
+  "game": "fortnite",
+  "name": "Fortnite",
+  "steam_appid": null,
+  "discord_ids": [
+    "1402418703554842694"
+  ],
+  "items": [
+    {
+      "key": "menu",
+      "label": "Lobby",
+      "url": "https://fortnite-api.com/images/playlists/playlist_defaultsolo/showcase.png",
+      "source": "https://fortnite-api.com",
+      "aliases": [
+        "Frontend"
+      ]
+    },
+    {
+      "key": "hermes",
+      "label": "Battle Royale island",
+      "url": "https://fortnite-api.com/images/map.png",
+      "source": "https://fortnite-api.com",
+      "aliases": [
+        "Hermes_Terrain"
+      ]
+    }
+  ]
+}
