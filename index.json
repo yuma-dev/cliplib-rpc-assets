@@ -1534,6 +1534,11 @@
           "label": "Orbis",
           "file": "hytale/orbis.webp",
           "aliases": []
+        },
+        "banner": {
+          "label": "Hytale",
+          "file": "hytale/banner.webp",
+          "aliases": []
         }
       }
     },
@@ -1947,6 +1952,62 @@
         "void": {
           "label": "Void",
           "file": "warframe/void.webp",
+          "aliases": []
+        }
+      }
+    },
+    "hearthstone": {
+      "name": "Hearthstone",
+      "steam_appid": null,
+      "discord_ids": [
+        "356875890958925834"
+      ],
+      "items": {
+        "banner": {
+          "label": "Hearthstone",
+          "file": "hearthstone/banner.webp",
+          "aliases": []
+        }
+      }
+    },
+    "roblox": {
+      "name": "Roblox",
+      "steam_appid": null,
+      "discord_ids": [
+        "363445589247131668"
+      ],
+      "items": {
+        "banner": {
+          "label": "Roblox",
+          "file": "roblox/banner.webp",
+          "aliases": []
+        }
+      }
+    },
+    "runeterra": {
+      "name": "Legends of Runeterra",
+      "steam_appid": null,
+      "discord_ids": [
+        "1402418693958275202"
+      ],
+      "items": {
+        "banner": {
+          "label": "Legends of Runeterra",
+          "file": "runeterra/banner.webp",
+          "aliases": []
+        }
+      }
+    },
+    "star-citizen": {
+      "name": "Star Citizen",
+      "steam_appid": null,
+      "discord_ids": [
+        "452295596917784577"
+      ],
+      "items": {
+        "logo": {
+          "label": "Star Citizen",
+          "file": "star-citizen/logo.webp",
           "aliases": []
         }
       }

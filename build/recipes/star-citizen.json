@@ -1,0 +1,16 @@
+{
+  "game": "star-citizen",
+  "name": "Star Citizen",
+  "discord_ids": [
+    "452295596917784577"
+  ],
+  "items": [
+    {
+      "key": "logo",
+      "label": "Star Citizen",
+      "fit": "contain",
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/91/Star_Citizen_logo.png",
+      "source": "https://en.wikipedia.org/wiki/File:Star_Citizen_logo.png"
+    }
+  ]
+}

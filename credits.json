@@ -734,6 +734,16 @@
     "image": "https://static.wikia.nocookie.net/golf-it/images/b/b1/Winterland.png/revision/latest?cb=20230821042104",
     "game": "Golf It!"
   },
+  "hearthstone/banner.webp": {
+    "source": "https://hearthstone.blizzard.com/",
+    "image": "https://d39zum0jwvcigt.cloudfront.net/_next/static/images/default-475d770302527dbab7708dca2af05afd.jpg",
+    "game": "Hearthstone"
+  },
+  "hytale/banner.webp": {
+    "source": "https://hytale.com/media",
+    "image": "https://cdn.hytale.com/5e7a961e5e334000189a2a7a_1__1_.jpg",
+    "game": "Hytale"
+  },
   "hytale/orbis.webp": {
     "source": "https://hytalewiki.org/wiki/File%3AHytale-wallpaper-1920x1080-005.jpg",
     "image": "https://hytalewiki.org/images/Hytale-wallpaper-1920x1080-005.jpg?15f86",
@@ -969,6 +979,16 @@
     "image": "https://static.wikia.nocookie.net/repogame/images/1/17/Swiftbroom_Academy.png/revision/latest?cb=20250228233751",
     "game": "R.E.P.O."
   },
+  "roblox/banner.webp": {
+    "source": "https://www.roblox.com/",
+    "image": "https://images.rbxcdn.com/5348266ea6c5e67b19d6a814cbbb70f6.jpg",
+    "game": "Roblox"
+  },
+  "runeterra/banner.webp": {
+    "source": "https://playruneterra.com/",
+    "image": "https://playruneterra.com/assets/ccc9b55ec5fec88d1a616e7dec4795282a3aba52/static/image/share-image.jpg",
+    "game": "Legends of Runeterra"
+  },
   "rv-there-yet/garage.webp": {
     "source": "https://rvthereyet.fandom.com/wiki/Garage",
     "image": "https://static.wikia.nocookie.net/rvthereyet/images/8/88/Garage.png/revision/latest?cb=20251229222013",
@@ -1053,6 +1073,11 @@
     "source": "https://slaythespire.wiki.gg/wiki/File%3AStS2_Underdocks.png",
     "image": "https://slaythespire.wiki.gg/images/StS2_Underdocks.png?772c9c",
     "game": "Slay the Spire II"
+  },
+  "star-citizen/logo.webp": {
+    "source": "https://en.wikipedia.org/wiki/File:Star_Citizen_logo.png",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/91/Star_Citizen_logo.png",
+    "game": "Star Citizen"
   },
   "subnautica-2/menu.webp": {
     "source": "https://store.steampowered.com/app/1962700",

@@ -1,0 +1,16 @@
+{
+  "game": "roblox",
+  "name": "Roblox",
+  "discord_ids": [
+    "363445589247131668"
+  ],
+  "items": [
+    {
+      "key": "banner",
+      "label": "Roblox",
+      "banner": true,
+      "url": "https://images.rbxcdn.com/5348266ea6c5e67b19d6a814cbbb70f6.jpg",
+      "source": "https://www.roblox.com/"
+    }
+  ]
+}

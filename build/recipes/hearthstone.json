@@ -1,0 +1,17 @@
+{
+  "game": "hearthstone",
+  "name": "Hearthstone",
+  "discord_ids": [
+    "356875890958925834"
+  ],
+  "items": [
+    {
+      "key": "banner",
+      "label": "Hearthstone",
+      "banner": true,
+      "focus_y": 0.4,
+      "url": "https://d39zum0jwvcigt.cloudfront.net/_next/static/images/default-475d770302527dbab7708dca2af05afd.jpg",
+      "source": "https://hearthstone.blizzard.com/"
+    }
+  ]
+}

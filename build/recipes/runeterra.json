@@ -1,0 +1,17 @@
+{
+  "game": "runeterra",
+  "name": "Legends of Runeterra",
+  "discord_ids": [
+    "1402418693958275202"
+  ],
+  "items": [
+    {
+      "key": "banner",
+      "label": "Legends of Runeterra",
+      "banner": true,
+      "focus_y": 0.12,
+      "url": "https://playruneterra.com/assets/ccc9b55ec5fec88d1a616e7dec4795282a3aba52/static/image/share-image.jpg",
+      "source": "https://playruneterra.com/"
+    }
+  ]
+}

@@ -14,6 +14,8 @@ https://cdn.jsdelivr.net/gh/yuma-dev/cliplib-rpc-assets@<tag>/<game>/<key>.webp
 
 Recipes in `build/recipes/` say where each picture comes from (a wiki page, a wiki file, a Steam
 screenshot or a direct url) and how to crop it. Nothing is picked by hand beyond the recipe.
+Items are 512 px squares; `banner: true` makes a 1536x512 banner for ClipLib's settings page and
+`fit: "contain"` pads a logo instead of cropping it.
 
 ```
 node build/build.mjs                     # everything

@@ -11,6 +11,14 @@
       "label": "Orbis",
       "file": "Hytale-wallpaper-1920x1080-005.jpg",
       "focus": 0.5
+    },
+    {
+      "key": "banner",
+      "label": "Hytale",
+      "banner": true,
+      "focus_y": 0.45,
+      "url": "https://cdn.hytale.com/5e7a961e5e334000189a2a7a_1__1_.jpg",
+      "source": "https://hytale.com/media"
     }
   ]
 }

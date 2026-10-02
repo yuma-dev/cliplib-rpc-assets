@@ -123,7 +123,9 @@ async function resolve(recipe, item) {
 }
 
 /** `trim` cuts frames, captions and vignettes off first ({ top, right, bottom, left } as fractions),
- * then a square crop around `focus` (0 left .. 1 right, 0.5 default; `focus_y` likewise), 512 px WebP. */
+ * then a square crop around `focus` (0 left .. 1 right, 0.5 default; `focus_y` likewise), 512 px WebP.
+ * `banner: true` crops 3:1 to 1536x512 instead (settings page tiles), `fit: "contain"` pads a logo
+ * onto a transparent square so Discord's square crop can't cut it. */
 function convert(src, out, item, trim = {}) {
   const fx = item.focus ?? 0.5;
   const fy = item.focus_y ?? 0.5;
@@ -132,10 +134,15 @@ function convert(src, out, item, trim = {}) {
     t.top || t.right || t.bottom || t.left
       ? `crop=iw*${1 - t.left - t.right}:ih*${1 - t.top - t.bottom}:iw*${t.left}:ih*${t.top},`
       : "";
-  const vf =
-    pre +
-    `crop='min(iw,ih)':'min(iw,ih)':'(iw-min(iw,ih))*${fx}':'(ih-min(iw,ih))*${fy}',` +
-    `scale=${SIZE}:${SIZE}:flags=lanczos`;
+  const fit = item.banner
+    ? `crop='min(iw,ih*3)':'min(iw,ih*3)/3':'(iw-min(iw,ih*3))*${fx}':'(ih-min(iw,ih*3)/3)*${fy}',` +
+      `scale=${SIZE * 3}:${SIZE}:flags=lanczos`
+    : item.fit === "contain"
+      ? `format=rgba,pad='trunc(max(iw,ih)*1.12)':'trunc(max(iw,ih)*1.12)':'(ow-iw)/2':'(oh-ih)/2':color=black@0,` +
+        `scale=${SIZE}:${SIZE}:flags=lanczos`
+      : `crop='min(iw,ih)':'min(iw,ih)':'(iw-min(iw,ih))*${fx}':'(ih-min(iw,ih))*${fy}',` +
+        `scale=${SIZE}:${SIZE}:flags=lanczos`;
+  const vf = pre + fit;
   mkdirSync(dirname(out), { recursive: true });
   execFileSync(FFMPEG, ["-v", "error", "-y", "-i", src, "-frames:v", "1", "-vf", vf, "-c:v", "libwebp", "-quality", "82", out]);
 }
