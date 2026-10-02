@@ -1,0 +1,96 @@
+{
+  "game": "warframe",
+  "name": "Warframe",
+  "steam_appid": "230410",
+  "discord_ids": [
+    "1402418586244612216"
+  ],
+  "wiki": "https://wiki.warframe.com",
+  "items": [
+    {
+      "key": "mercury",
+      "label": "Mercury",
+      "file": "Mercury.png"
+    },
+    {
+      "key": "venus",
+      "label": "Venus",
+      "file": "Venus.png"
+    },
+    {
+      "key": "earth",
+      "label": "Earth",
+      "file": "Earth.png"
+    },
+    {
+      "key": "lua",
+      "label": "Lua",
+      "file": "Lua.png"
+    },
+    {
+      "key": "mars",
+      "label": "Mars",
+      "file": "Mars.png"
+    },
+    {
+      "key": "deimos",
+      "label": "Deimos",
+      "file": "Deimos.png"
+    },
+    {
+      "key": "phobos",
+      "label": "Phobos",
+      "file": "Phobos.png"
+    },
+    {
+      "key": "ceres",
+      "label": "Ceres",
+      "file": "Ceres.png"
+    },
+    {
+      "key": "jupiter",
+      "label": "Jupiter",
+      "file": "Jupiter.png"
+    },
+    {
+      "key": "europa",
+      "label": "Europa",
+      "file": "Europa.png"
+    },
+    {
+      "key": "saturn",
+      "label": "Saturn",
+      "file": "Saturn.png"
+    },
+    {
+      "key": "uranus",
+      "label": "Uranus",
+      "file": "Uranus.png"
+    },
+    {
+      "key": "neptune",
+      "label": "Neptune",
+      "file": "Neptune.png"
+    },
+    {
+      "key": "pluto",
+      "label": "Pluto",
+      "file": "Pluto.png"
+    },
+    {
+      "key": "eris",
+      "label": "Eris",
+      "file": "Eris.png"
+    },
+    {
+      "key": "sedna",
+      "label": "Sedna",
+      "file": "Sedna.png"
+    },
+    {
+      "key": "void",
+      "label": "Void",
+      "file": "Void.png"
+    }
+  ]
+}

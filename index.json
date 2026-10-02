@@ -253,7 +253,10 @@
           "aliases": [
             "Level - Shop",
             "Level - Shop Forest",
-            "Level - Shop Suburb"
+            "Level - Shop Suburb",
+            "Level - Shop Harbor",
+            "Level - Shop Dead Forest",
+            "Level - Shop Wasteland"
           ]
         },
         "arena": {
@@ -261,7 +264,8 @@
           "file": "repo/arena.webp",
           "aliases": [
             "Level - Arena",
-            "Level - Arena Fight"
+            "Level - Arena Fight",
+            "Level - Arena Race"
           ]
         }
       }
@@ -278,6 +282,7 @@
           "file": "rv-there-yet/menu.webp",
           "aliases": [
             "Frontend_Snow",
+            "Frontend_Jungle",
             "Frontend"
           ]
         },
@@ -307,6 +312,13 @@
           "file": "rv-there-yet/mt-yurbuttsk.webp",
           "aliases": [
             "SnowLevel"
+          ]
+        },
+        "st-buttin-bay": {
+          "label": "St. Búttin Bay",
+          "file": "rv-there-yet/st-buttin-bay.webp",
+          "aliases": [
+            "JungleLevel"
           ]
         }
       }
@@ -500,7 +512,1445 @@
           "aliases": []
         }
       }
+    },
+    "balatro": {
+      "name": "Balatro",
+      "steam_appid": "2379780",
+      "discord_ids": [
+        "1209665818464358430"
+      ],
+      "items": {
+        "b_red": {
+          "label": "Red Deck",
+          "file": "balatro/b_red.webp",
+          "aliases": [
+            "b_red",
+            "Red Deck"
+          ]
+        },
+        "b_blue": {
+          "label": "Blue Deck",
+          "file": "balatro/b_blue.webp",
+          "aliases": [
+            "b_blue",
+            "Blue Deck"
+          ]
+        },
+        "b_yellow": {
+          "label": "Yellow Deck",
+          "file": "balatro/b_yellow.webp",
+          "aliases": [
+            "b_yellow",
+            "Yellow Deck"
+          ]
+        },
+        "b_green": {
+          "label": "Green Deck",
+          "file": "balatro/b_green.webp",
+          "aliases": [
+            "b_green",
+            "Green Deck"
+          ]
+        },
+        "b_black": {
+          "label": "Black Deck",
+          "file": "balatro/b_black.webp",
+          "aliases": [
+            "b_black",
+            "Black Deck"
+          ]
+        },
+        "b_magic": {
+          "label": "Magic Deck",
+          "file": "balatro/b_magic.webp",
+          "aliases": [
+            "b_magic",
+            "Magic Deck"
+          ]
+        },
+        "b_nebula": {
+          "label": "Nebula Deck",
+          "file": "balatro/b_nebula.webp",
+          "aliases": [
+            "b_nebula",
+            "Nebula Deck"
+          ]
+        },
+        "b_ghost": {
+          "label": "Ghost Deck",
+          "file": "balatro/b_ghost.webp",
+          "aliases": [
+            "b_ghost",
+            "Ghost Deck"
+          ]
+        },
+        "b_abandoned": {
+          "label": "Abandoned Deck",
+          "file": "balatro/b_abandoned.webp",
+          "aliases": [
+            "b_abandoned",
+            "Abandoned Deck"
+          ]
+        },
+        "b_checkered": {
+          "label": "Checkered Deck",
+          "file": "balatro/b_checkered.webp",
+          "aliases": [
+            "b_checkered",
+            "Checkered Deck"
+          ]
+        },
+        "b_zodiac": {
+          "label": "Zodiac Deck",
+          "file": "balatro/b_zodiac.webp",
+          "aliases": [
+            "b_zodiac",
+            "Zodiac Deck"
+          ]
+        },
+        "b_painted": {
+          "label": "Painted Deck",
+          "file": "balatro/b_painted.webp",
+          "aliases": [
+            "b_painted",
+            "Painted Deck"
+          ]
+        },
+        "b_anaglyph": {
+          "label": "Anaglyph Deck",
+          "file": "balatro/b_anaglyph.webp",
+          "aliases": [
+            "b_anaglyph",
+            "Anaglyph Deck"
+          ]
+        },
+        "b_plasma": {
+          "label": "Plasma Deck",
+          "file": "balatro/b_plasma.webp",
+          "aliases": [
+            "b_plasma",
+            "Plasma Deck"
+          ]
+        },
+        "b_erratic": {
+          "label": "Erratic Deck",
+          "file": "balatro/b_erratic.webp",
+          "aliases": [
+            "b_erratic",
+            "Erratic Deck"
+          ]
+        },
+        "bl_small": {
+          "label": "Small Blind",
+          "file": "balatro/bl_small.webp",
+          "aliases": [
+            "bl_small",
+            "Small Blind"
+          ]
+        },
+        "bl_big": {
+          "label": "Big Blind",
+          "file": "balatro/bl_big.webp",
+          "aliases": [
+            "bl_big",
+            "Big Blind"
+          ]
+        },
+        "bl_ox": {
+          "label": "The Ox",
+          "file": "balatro/bl_ox.webp",
+          "aliases": [
+            "bl_ox",
+            "The Ox"
+          ]
+        },
+        "bl_hook": {
+          "label": "The Hook",
+          "file": "balatro/bl_hook.webp",
+          "aliases": [
+            "bl_hook",
+            "The Hook"
+          ]
+        },
+        "bl_mouth": {
+          "label": "The Mouth",
+          "file": "balatro/bl_mouth.webp",
+          "aliases": [
+            "bl_mouth",
+            "The Mouth"
+          ]
+        },
+        "bl_fish": {
+          "label": "The Fish",
+          "file": "balatro/bl_fish.webp",
+          "aliases": [
+            "bl_fish",
+            "The Fish"
+          ]
+        },
+        "bl_club": {
+          "label": "The Club",
+          "file": "balatro/bl_club.webp",
+          "aliases": [
+            "bl_club",
+            "The Club"
+          ]
+        },
+        "bl_manacle": {
+          "label": "The Manacle",
+          "file": "balatro/bl_manacle.webp",
+          "aliases": [
+            "bl_manacle",
+            "The Manacle"
+          ]
+        },
+        "bl_tooth": {
+          "label": "The Tooth",
+          "file": "balatro/bl_tooth.webp",
+          "aliases": [
+            "bl_tooth",
+            "The Tooth"
+          ]
+        },
+        "bl_wall": {
+          "label": "The Wall",
+          "file": "balatro/bl_wall.webp",
+          "aliases": [
+            "bl_wall",
+            "The Wall"
+          ]
+        },
+        "bl_house": {
+          "label": "The House",
+          "file": "balatro/bl_house.webp",
+          "aliases": [
+            "bl_house",
+            "The House"
+          ]
+        },
+        "bl_mark": {
+          "label": "The Mark",
+          "file": "balatro/bl_mark.webp",
+          "aliases": [
+            "bl_mark",
+            "The Mark"
+          ]
+        },
+        "bl_wheel": {
+          "label": "The Wheel",
+          "file": "balatro/bl_wheel.webp",
+          "aliases": [
+            "bl_wheel",
+            "The Wheel"
+          ]
+        },
+        "bl_arm": {
+          "label": "The Arm",
+          "file": "balatro/bl_arm.webp",
+          "aliases": [
+            "bl_arm",
+            "The Arm"
+          ]
+        },
+        "bl_psychic": {
+          "label": "The Psychic",
+          "file": "balatro/bl_psychic.webp",
+          "aliases": [
+            "bl_psychic",
+            "The Psychic"
+          ]
+        },
+        "bl_goad": {
+          "label": "The Goad",
+          "file": "balatro/bl_goad.webp",
+          "aliases": [
+            "bl_goad",
+            "The Goad"
+          ]
+        },
+        "bl_water": {
+          "label": "The Water",
+          "file": "balatro/bl_water.webp",
+          "aliases": [
+            "bl_water",
+            "The Water"
+          ]
+        },
+        "bl_eye": {
+          "label": "The Eye",
+          "file": "balatro/bl_eye.webp",
+          "aliases": [
+            "bl_eye",
+            "The Eye"
+          ]
+        },
+        "bl_plant": {
+          "label": "The Plant",
+          "file": "balatro/bl_plant.webp",
+          "aliases": [
+            "bl_plant",
+            "The Plant"
+          ]
+        },
+        "bl_needle": {
+          "label": "The Needle",
+          "file": "balatro/bl_needle.webp",
+          "aliases": [
+            "bl_needle",
+            "The Needle"
+          ]
+        },
+        "bl_head": {
+          "label": "The Head",
+          "file": "balatro/bl_head.webp",
+          "aliases": [
+            "bl_head",
+            "The Head"
+          ]
+        },
+        "bl_window": {
+          "label": "The Window",
+          "file": "balatro/bl_window.webp",
+          "aliases": [
+            "bl_window",
+            "The Window"
+          ]
+        },
+        "bl_serpent": {
+          "label": "The Serpent",
+          "file": "balatro/bl_serpent.webp",
+          "aliases": [
+            "bl_serpent",
+            "The Serpent"
+          ]
+        },
+        "bl_pillar": {
+          "label": "The Pillar",
+          "file": "balatro/bl_pillar.webp",
+          "aliases": [
+            "bl_pillar",
+            "The Pillar"
+          ]
+        },
+        "bl_flint": {
+          "label": "The Flint",
+          "file": "balatro/bl_flint.webp",
+          "aliases": [
+            "bl_flint",
+            "The Flint"
+          ]
+        },
+        "bl_final_bell": {
+          "label": "Cerulean Bell",
+          "file": "balatro/bl_final_bell.webp",
+          "aliases": [
+            "bl_final_bell",
+            "Cerulean Bell"
+          ]
+        },
+        "bl_final_leaf": {
+          "label": "Verdant Leaf",
+          "file": "balatro/bl_final_leaf.webp",
+          "aliases": [
+            "bl_final_leaf",
+            "Verdant Leaf"
+          ]
+        },
+        "bl_final_vessel": {
+          "label": "Violet Vessel",
+          "file": "balatro/bl_final_vessel.webp",
+          "aliases": [
+            "bl_final_vessel",
+            "Violet Vessel"
+          ]
+        },
+        "bl_final_acorn": {
+          "label": "Amber Acorn",
+          "file": "balatro/bl_final_acorn.webp",
+          "aliases": [
+            "bl_final_acorn",
+            "Amber Acorn"
+          ]
+        },
+        "bl_final_heart": {
+          "label": "Crimson Heart",
+          "file": "balatro/bl_final_heart.webp",
+          "aliases": [
+            "bl_final_heart",
+            "Crimson Heart"
+          ]
+        }
+      }
+    },
+    "elite-dangerous": {
+      "name": "Elite Dangerous",
+      "steam_appid": "359320",
+      "discord_ids": [
+        "363413225578037248"
+      ],
+      "items": {
+        "sidewinder": {
+          "label": "Sidewinder",
+          "file": "elite-dangerous/sidewinder.webp",
+          "aliases": [
+            "sidewinder"
+          ]
+        },
+        "eagle": {
+          "label": "Eagle",
+          "file": "elite-dangerous/eagle.webp",
+          "aliases": [
+            "eagle"
+          ]
+        },
+        "hauler": {
+          "label": "Hauler",
+          "file": "elite-dangerous/hauler.webp",
+          "aliases": [
+            "hauler"
+          ]
+        },
+        "adder": {
+          "label": "Adder",
+          "file": "elite-dangerous/adder.webp",
+          "aliases": [
+            "adder"
+          ]
+        },
+        "imperial-eagle": {
+          "label": "Imperial Eagle",
+          "file": "elite-dangerous/imperial-eagle.webp",
+          "aliases": [
+            "empire_eagle"
+          ]
+        },
+        "viper-mk-iii": {
+          "label": "Viper Mk III",
+          "file": "elite-dangerous/viper-mk-iii.webp",
+          "aliases": [
+            "viper"
+          ]
+        },
+        "cobra-mk-iii": {
+          "label": "Cobra Mk III",
+          "file": "elite-dangerous/cobra-mk-iii.webp",
+          "aliases": [
+            "cobramkiii"
+          ]
+        },
+        "viper-mk-iv": {
+          "label": "Viper Mk IV",
+          "file": "elite-dangerous/viper-mk-iv.webp",
+          "aliases": [
+            "viper_mkiv"
+          ]
+        },
+        "diamondback-scout": {
+          "label": "Diamondback Scout",
+          "file": "elite-dangerous/diamondback-scout.webp",
+          "aliases": [
+            "diamondback"
+          ]
+        },
+        "cobra-mk-iv": {
+          "label": "Cobra Mk IV",
+          "file": "elite-dangerous/cobra-mk-iv.webp",
+          "aliases": [
+            "cobramkiv"
+          ]
+        },
+        "type-6-transporter": {
+          "label": "Type-6 Transporter",
+          "file": "elite-dangerous/type-6-transporter.webp",
+          "aliases": [
+            "type6"
+          ]
+        },
+        "dolphin": {
+          "label": "Dolphin",
+          "file": "elite-dangerous/dolphin.webp",
+          "aliases": [
+            "dolphin"
+          ]
+        },
+        "diamondback-explorer": {
+          "label": "Diamondback Explorer",
+          "file": "elite-dangerous/diamondback-explorer.webp",
+          "aliases": [
+            "diamondbackxl"
+          ]
+        },
+        "imperial-courier": {
+          "label": "Imperial Courier",
+          "file": "elite-dangerous/imperial-courier.webp",
+          "aliases": [
+            "empire_courier"
+          ]
+        },
+        "keelback": {
+          "label": "Keelback",
+          "file": "elite-dangerous/keelback.webp",
+          "aliases": [
+            "independant_trader"
+          ]
+        },
+        "asp-scout": {
+          "label": "Asp Scout",
+          "file": "elite-dangerous/asp-scout.webp",
+          "aliases": [
+            "asp_scout"
+          ]
+        },
+        "vulture": {
+          "label": "Vulture",
+          "file": "elite-dangerous/vulture.webp",
+          "aliases": [
+            "vulture"
+          ]
+        },
+        "asp-explorer": {
+          "label": "Asp Explorer",
+          "file": "elite-dangerous/asp-explorer.webp",
+          "aliases": [
+            "asp"
+          ]
+        },
+        "federal-dropship": {
+          "label": "Federal Dropship",
+          "file": "elite-dangerous/federal-dropship.webp",
+          "aliases": [
+            "federation_dropship"
+          ]
+        },
+        "type-7-transporter": {
+          "label": "Type-7 Transporter",
+          "file": "elite-dangerous/type-7-transporter.webp",
+          "aliases": [
+            "type7"
+          ]
+        },
+        "alliance-chieftain": {
+          "label": "Alliance Chieftain",
+          "file": "elite-dangerous/alliance-chieftain.webp",
+          "aliases": [
+            "typex"
+          ]
+        },
+        "federal-assault-ship": {
+          "label": "Federal Assault Ship",
+          "file": "elite-dangerous/federal-assault-ship.webp",
+          "aliases": [
+            "federation_dropship_mkii"
+          ]
+        },
+        "imperial-clipper": {
+          "label": "Imperial Clipper",
+          "file": "elite-dangerous/imperial-clipper.webp",
+          "aliases": [
+            "empire_trader"
+          ]
+        },
+        "alliance-crusader": {
+          "label": "Alliance Crusader",
+          "file": "elite-dangerous/alliance-crusader.webp",
+          "aliases": [
+            "typex_2"
+          ]
+        },
+        "alliance-challenger": {
+          "label": "Alliance Challenger",
+          "file": "elite-dangerous/alliance-challenger.webp",
+          "aliases": [
+            "typeex_3"
+          ]
+        },
+        "federal-gunship": {
+          "label": "Federal Gunship",
+          "file": "elite-dangerous/federal-gunship.webp",
+          "aliases": [
+            "federation_gunship"
+          ]
+        },
+        "krait-phantom": {
+          "label": "Krait Phantom",
+          "file": "elite-dangerous/krait-phantom.webp",
+          "aliases": [
+            "krait_light"
+          ]
+        },
+        "krait-mk-ii": {
+          "label": "Krait Mk II",
+          "file": "elite-dangerous/krait-mk-ii.webp",
+          "aliases": [
+            "krait_mkii"
+          ]
+        },
+        "orca": {
+          "label": "Orca",
+          "file": "elite-dangerous/orca.webp",
+          "aliases": [
+            "orca"
+          ]
+        },
+        "fer-de-lance": {
+          "label": "Fer-de-Lance",
+          "file": "elite-dangerous/fer-de-lance.webp",
+          "aliases": [
+            "ferdelance"
+          ]
+        },
+        "mamba": {
+          "label": "Mamba",
+          "file": "elite-dangerous/mamba.webp",
+          "aliases": [
+            "mamba"
+          ]
+        },
+        "python": {
+          "label": "Python",
+          "file": "elite-dangerous/python.webp",
+          "aliases": [
+            "python"
+          ]
+        },
+        "python-mk-ii": {
+          "label": "Python Mk II",
+          "file": "elite-dangerous/python-mk-ii.webp",
+          "aliases": [
+            "python_nx"
+          ]
+        },
+        "type-9-heavy": {
+          "label": "Type-9 Heavy",
+          "file": "elite-dangerous/type-9-heavy.webp",
+          "aliases": [
+            "type9"
+          ]
+        },
+        "beluga-liner": {
+          "label": "Beluga Liner",
+          "file": "elite-dangerous/beluga-liner.webp",
+          "aliases": [
+            "belugaliner"
+          ]
+        },
+        "type-10-defender": {
+          "label": "Type-10 Defender",
+          "file": "elite-dangerous/type-10-defender.webp",
+          "aliases": [
+            "type9_military"
+          ]
+        },
+        "anaconda": {
+          "label": "Anaconda",
+          "file": "elite-dangerous/anaconda.webp",
+          "aliases": [
+            "anaconda"
+          ]
+        },
+        "federal-corvette": {
+          "label": "Federal Corvette",
+          "file": "elite-dangerous/federal-corvette.webp",
+          "aliases": [
+            "federation_corvette"
+          ]
+        },
+        "imperial-cutter": {
+          "label": "Imperial Cutter",
+          "file": "elite-dangerous/imperial-cutter.webp",
+          "aliases": [
+            "cutter"
+          ]
+        },
+        "cobra-mk-v": {
+          "label": "Cobra Mk V",
+          "file": "elite-dangerous/cobra-mk-v.webp",
+          "aliases": [
+            "cobramkv"
+          ]
+        },
+        "type-8-transporter": {
+          "label": "Type-8 Transporter",
+          "file": "elite-dangerous/type-8-transporter.webp",
+          "aliases": [
+            "type8"
+          ]
+        },
+        "panther-clipper-mk-ii": {
+          "label": "Panther Clipper Mk II",
+          "file": "elite-dangerous/panther-clipper-mk-ii.webp",
+          "aliases": [
+            "panthermkii"
+          ]
+        },
+        "corsair": {
+          "label": "Corsair",
+          "file": "elite-dangerous/corsair.webp",
+          "aliases": [
+            "corsair"
+          ]
+        },
+        "mandalay": {
+          "label": "Mandalay",
+          "file": "elite-dangerous/mandalay.webp",
+          "aliases": [
+            "mandalay"
+          ]
+        }
+      }
+    },
+    "fall-guys": {
+      "name": "Fall Guys",
+      "steam_appid": "1097150",
+      "discord_ids": [
+        "742897755160313986"
+      ],
+      "items": {
+        "door-dash": {
+          "label": "Door Dash",
+          "file": "fall-guys/door-dash.webp",
+          "aliases": [
+            "round_door_dash"
+          ]
+        },
+        "dizzy-heights": {
+          "label": "Dizzy Heights",
+          "file": "fall-guys/dizzy-heights.webp",
+          "aliases": [
+            "round_gauntlet_02"
+          ]
+        },
+        "gate-crash": {
+          "label": "Gate Crash",
+          "file": "fall-guys/gate-crash.webp",
+          "aliases": [
+            "round_chompchomp"
+          ]
+        },
+        "hit-parade": {
+          "label": "Hit Parade",
+          "file": "fall-guys/hit-parade.webp",
+          "aliases": [
+            "round_gauntlet_01"
+          ]
+        },
+        "whirlygig": {
+          "label": "The Whirlygig",
+          "file": "fall-guys/whirlygig.webp",
+          "aliases": [
+            "round_gauntlet_03"
+          ]
+        },
+        "see-saw": {
+          "label": "See Saw",
+          "file": "fall-guys/see-saw.webp",
+          "aliases": [
+            "round_see_saw"
+          ]
+        },
+        "slime-climb": {
+          "label": "Slime Climb",
+          "file": "fall-guys/slime-climb.webp",
+          "aliases": [
+            "round_lava"
+          ]
+        },
+        "tip-toe": {
+          "label": "Tip Toe",
+          "file": "fall-guys/tip-toe.webp",
+          "aliases": [
+            "round_tip_toe"
+          ]
+        },
+        "fruit-chute": {
+          "label": "Fruit Chute",
+          "file": "fall-guys/fruit-chute.webp",
+          "aliases": [
+            "round_dodge_fall"
+          ]
+        },
+        "knight-fever": {
+          "label": "Knight Fever",
+          "file": "fall-guys/knight-fever.webp",
+          "aliases": [
+            "round_gauntlet_04"
+          ]
+        },
+        "wall-guys": {
+          "label": "Wall Guys",
+          "file": "fall-guys/wall-guys.webp",
+          "aliases": [
+            "round_wall_guys"
+          ]
+        },
+        "big-fans": {
+          "label": "Big Fans",
+          "file": "fall-guys/big-fans.webp",
+          "aliases": [
+            "round_biggestfan"
+          ]
+        },
+        "freezy-peak": {
+          "label": "Freezy Peak",
+          "file": "fall-guys/freezy-peak.webp",
+          "aliases": [
+            "round_iceclimb"
+          ]
+        },
+        "tundra-run": {
+          "label": "Tundra Run",
+          "file": "fall-guys/tundra-run.webp",
+          "aliases": [
+            "round_gauntlet_05"
+          ]
+        },
+        "skyline-stumble": {
+          "label": "Skyline Stumble",
+          "file": "fall-guys/skyline-stumble.webp",
+          "aliases": [
+            "round_gauntlet_06"
+          ]
+        },
+        "short-circuit": {
+          "label": "Short Circuit",
+          "file": "fall-guys/short-circuit.webp",
+          "aliases": [
+            "round_shortcircuit"
+          ]
+        },
+        "treetop-tumble": {
+          "label": "Treetop Tumble",
+          "file": "fall-guys/treetop-tumble.webp",
+          "aliases": [
+            "round_gauntlet_07"
+          ]
+        },
+        "lily-leapers": {
+          "label": "Lily Leapers",
+          "file": "fall-guys/lily-leapers.webp",
+          "aliases": [
+            "round_drumtop"
+          ]
+        },
+        "party-promenade": {
+          "label": "Party Promenade",
+          "file": "fall-guys/party-promenade.webp",
+          "aliases": [
+            "round_gauntlet_08"
+          ]
+        },
+        "pipe-dream": {
+          "label": "Pipe Dream",
+          "file": "fall-guys/pipe-dream.webp",
+          "aliases": [
+            "round_pipedup_s6_launch"
+          ]
+        },
+        "track-attack": {
+          "label": "Track Attack",
+          "file": "fall-guys/track-attack.webp",
+          "aliases": [
+            "round_gauntlet_09_symphony_launch_show"
+          ]
+        },
+        "slimescraper": {
+          "label": "The Slimescraper",
+          "file": "fall-guys/slimescraper.webp",
+          "aliases": [
+            "round_slimeclimb_2"
+          ]
+        },
+        "block-party": {
+          "label": "Block Party",
+          "file": "fall-guys/block-party.webp",
+          "aliases": [
+            "round_block_party"
+          ]
+        },
+        "jump-club": {
+          "label": "Jump Club",
+          "file": "fall-guys/jump-club.webp",
+          "aliases": [
+            "round_jump_club"
+          ]
+        },
+        "roll-out": {
+          "label": "Roll Out",
+          "file": "fall-guys/roll-out.webp",
+          "aliases": [
+            "round_tunnel"
+          ]
+        },
+        "perfect-match": {
+          "label": "Perfect Match",
+          "file": "fall-guys/perfect-match.webp",
+          "aliases": [
+            "round_match_fall"
+          ]
+        },
+        "tail-tag": {
+          "label": "Tail Tag",
+          "file": "fall-guys/tail-tag.webp",
+          "aliases": [
+            "round_tail_tag"
+          ]
+        },
+        "team-tail-tag": {
+          "label": "Team Tail Tag",
+          "file": "fall-guys/team-tail-tag.webp",
+          "aliases": [
+            "round_conveyor_arena"
+          ]
+        },
+        "fall-ball": {
+          "label": "Fall Ball",
+          "file": "fall-guys/fall-ball.webp",
+          "aliases": [
+            "round_fall_ball_60_players"
+          ]
+        },
+        "hoopsie-daisy": {
+          "label": "Hoopsie Daisy",
+          "file": "fall-guys/hoopsie-daisy.webp",
+          "aliases": [
+            "round_hoops"
+          ]
+        },
+        "egg-scramble": {
+          "label": "Egg Scramble",
+          "file": "fall-guys/egg-scramble.webp",
+          "aliases": [
+            "round_egg_grab"
+          ]
+        },
+        "jinxed": {
+          "label": "Jinxed",
+          "file": "fall-guys/jinxed.webp",
+          "aliases": [
+            "round_jinxed"
+          ]
+        },
+        "rock-n-roll": {
+          "label": "Rock 'n' Roll",
+          "file": "fall-guys/rock-n-roll.webp",
+          "aliases": [
+            "round_rocknroll"
+          ]
+        },
+        "hex-a-gone": {
+          "label": "Hex-A-Gone",
+          "file": "fall-guys/hex-a-gone.webp",
+          "aliases": [
+            "round_floor_fall"
+          ]
+        },
+        "jump-showdown": {
+          "label": "Jump Showdown",
+          "file": "fall-guys/jump-showdown.webp",
+          "aliases": [
+            "round_jump_showdown"
+          ]
+        },
+        "fall-mountain": {
+          "label": "Fall Mountain",
+          "file": "fall-guys/fall-mountain.webp",
+          "aliases": [
+            "round_fall_mountain_hub_complete"
+          ]
+        },
+        "royal-fumble": {
+          "label": "Royal Fumble",
+          "file": "fall-guys/royal-fumble.webp",
+          "aliases": [
+            "round_royal_rumble"
+          ]
+        },
+        "thin-ice": {
+          "label": "Thin Ice",
+          "file": "fall-guys/thin-ice.webp",
+          "aliases": [
+            "round_thin_ice"
+          ]
+        },
+        "blast-ball": {
+          "label": "Blast Ball",
+          "file": "fall-guys/blast-ball.webp",
+          "aliases": [
+            "round_blastball_arenasurvival_symphony_launch_show"
+          ]
+        },
+        "hex-a-ring": {
+          "label": "Hex-A-Ring",
+          "file": "fall-guys/hex-a-ring.webp",
+          "aliases": [
+            "round_hexaring_symphony_launch_show"
+          ]
+        },
+        "hex-a-terrestrial": {
+          "label": "Hex-A-Terrestrial",
+          "file": "fall-guys/hex-a-terrestrial.webp",
+          "aliases": [
+            "round_hexsnake_almond"
+          ]
+        },
+        "roll-off": {
+          "label": "Roll Off",
+          "file": "fall-guys/roll-off.webp",
+          "aliases": [
+            "round_tunnel_final"
+          ]
+        },
+        "button-bashers": {
+          "label": "Button Bashers",
+          "file": "fall-guys/button-bashers.webp",
+          "aliases": [
+            "round_1v1_button_basher"
+          ]
+        },
+        "stompin-ground": {
+          "label": "Stompin' Ground",
+          "file": "fall-guys/stompin-ground.webp",
+          "aliases": [
+            "round_robotrampage_arena_2"
+          ]
+        },
+        "big-shots": {
+          "label": "Big Shots",
+          "file": "fall-guys/big-shots.webp",
+          "aliases": [
+            "round_fruitpunch_s4_show"
+          ]
+        }
+      }
+    },
+    "hytale": {
+      "name": "Hytale",
+      "steam_appid": null,
+      "discord_ids": [
+        "1458530944955973852"
+      ],
+      "items": {
+        "orbis": {
+          "label": "Orbis",
+          "file": "hytale/orbis.webp",
+          "aliases": []
+        }
+      }
+    },
+    "path-of-exile": {
+      "name": "Path of Exile 1 and 2",
+      "steam_appid": "238960",
+      "discord_ids": [
+        "356888453796986880",
+        "1328876348361412619"
+      ],
+      "items": {
+        "poe1-marauder": {
+          "label": "Marauder (PoE 1)",
+          "file": "path-of-exile/poe1-marauder.webp",
+          "aliases": []
+        },
+        "poe1-ranger": {
+          "label": "Ranger (PoE 1)",
+          "file": "path-of-exile/poe1-ranger.webp",
+          "aliases": []
+        },
+        "poe1-witch": {
+          "label": "Witch (PoE 1)",
+          "file": "path-of-exile/poe1-witch.webp",
+          "aliases": []
+        },
+        "poe1-duelist": {
+          "label": "Duelist (PoE 1)",
+          "file": "path-of-exile/poe1-duelist.webp",
+          "aliases": []
+        },
+        "poe1-templar": {
+          "label": "Templar (PoE 1)",
+          "file": "path-of-exile/poe1-templar.webp",
+          "aliases": []
+        },
+        "poe1-shadow": {
+          "label": "Shadow (PoE 1)",
+          "file": "path-of-exile/poe1-shadow.webp",
+          "aliases": []
+        },
+        "poe1-scion": {
+          "label": "Scion (PoE 1)",
+          "file": "path-of-exile/poe1-scion.webp",
+          "aliases": []
+        },
+        "poe2-warrior": {
+          "label": "Warrior (PoE 2)",
+          "file": "path-of-exile/poe2-warrior.webp",
+          "aliases": []
+        },
+        "poe2-mercenary": {
+          "label": "Mercenary (PoE 2)",
+          "file": "path-of-exile/poe2-mercenary.webp",
+          "aliases": []
+        },
+        "poe2-ranger": {
+          "label": "Ranger (PoE 2)",
+          "file": "path-of-exile/poe2-ranger.webp",
+          "aliases": []
+        },
+        "poe2-monk": {
+          "label": "Monk (PoE 2)",
+          "file": "path-of-exile/poe2-monk.webp",
+          "aliases": []
+        },
+        "poe2-sorceress": {
+          "label": "Sorceress (PoE 2)",
+          "file": "path-of-exile/poe2-sorceress.webp",
+          "aliases": []
+        },
+        "poe2-witch": {
+          "label": "Witch (PoE 2)",
+          "file": "path-of-exile/poe2-witch.webp",
+          "aliases": []
+        },
+        "poe2-huntress": {
+          "label": "Huntress (PoE 2)",
+          "file": "path-of-exile/poe2-huntress.webp",
+          "aliases": []
+        },
+        "poe2-druid": {
+          "label": "Druid (PoE 2)",
+          "file": "path-of-exile/poe2-druid.webp",
+          "aliases": []
+        }
+      }
+    },
+    "phasmophobia": {
+      "name": "Phasmophobia",
+      "steam_appid": "739630",
+      "discord_ids": [
+        "1402418103702524046"
+      ],
+      "items": {
+        "lobby": {
+          "label": "Lobby",
+          "file": "phasmophobia/lobby.webp",
+          "aliases": [
+            "Main Menu",
+            "Main_Menu"
+          ]
+        },
+        "tanglewood": {
+          "label": "6 Tanglewood Drive",
+          "file": "phasmophobia/tanglewood.webp",
+          "aliases": [
+            "TanglewoodStreetHouse",
+            "Tanglewood_Street_House"
+          ]
+        },
+        "edgefield": {
+          "label": "42 Edgefield Road",
+          "file": "phasmophobia/edgefield.webp",
+          "aliases": [
+            "EdgefieldStreetHouse",
+            "Edgefield_Street_House"
+          ]
+        },
+        "ridgeview": {
+          "label": "10 Ridgeview Court",
+          "file": "phasmophobia/ridgeview.webp",
+          "aliases": [
+            "RidgeviewRoadHouse",
+            "Ridgeview_Road_House"
+          ]
+        },
+        "willow": {
+          "label": "13 Willow Street",
+          "file": "phasmophobia/willow.webp",
+          "aliases": [
+            "WillowStreetHouse",
+            "Willow_Street_House"
+          ]
+        },
+        "grafton": {
+          "label": "Grafton Farmhouse",
+          "file": "phasmophobia/grafton.webp",
+          "aliases": [
+            "GraftonFarmhouse",
+            "Grafton_Farmhouse"
+          ]
+        },
+        "bleasdale": {
+          "label": "Bleasdale Farmhouse",
+          "file": "phasmophobia/bleasdale.webp",
+          "aliases": [
+            "BleasdaleFarmhouse",
+            "Bleasdale_Farmhouse"
+          ]
+        },
+        "brownstone": {
+          "label": "Brownstone High School",
+          "file": "phasmophobia/brownstone.webp",
+          "aliases": [
+            "BrownstoneHighSchool",
+            "Brownstone_High_School"
+          ]
+        },
+        "sunny-meadows": {
+          "label": "Sunny Meadows",
+          "file": "phasmophobia/sunny-meadows.webp",
+          "aliases": [
+            "Asylum",
+            "Sunny_Meadows"
+          ]
+        },
+        "prison": {
+          "label": "Prison",
+          "file": "phasmophobia/prison.webp",
+          "aliases": [
+            "Prison"
+          ]
+        },
+        "maple-lodge": {
+          "label": "Maple Lodge Campsite",
+          "file": "phasmophobia/maple-lodge.webp",
+          "aliases": [
+            "MapleLodgeCampsite",
+            "Maple_Lodge_Campsite"
+          ]
+        },
+        "camp-woodwind": {
+          "label": "Camp Woodwind",
+          "file": "phasmophobia/camp-woodwind.webp",
+          "aliases": [
+            "CampWoodwind",
+            "Camp_Woodwind"
+          ]
+        },
+        "point-hope": {
+          "label": "Point Hope",
+          "file": "phasmophobia/point-hope.webp",
+          "aliases": [
+            "Point_Hope"
+          ]
+        },
+        "nells-diner": {
+          "label": "Nell's Diner",
+          "file": "phasmophobia/nells-diner.webp",
+          "aliases": [
+            "Nells_Diner"
+          ]
+        },
+        "training": {
+          "label": "Training",
+          "file": "phasmophobia/training.webp",
+          "aliases": [
+            "TutorialV2",
+            "Training"
+          ]
+        }
+      }
+    },
+    "tarkov": {
+      "name": "Escape from Tarkov",
+      "steam_appid": "3932890",
+      "discord_ids": [
+        "406637848297472017"
+      ],
+      "items": {
+        "customs": {
+          "label": "Customs",
+          "file": "tarkov/customs.webp",
+          "aliases": [
+            "bigmap",
+            "Customs"
+          ]
+        },
+        "factory": {
+          "label": "Factory",
+          "file": "tarkov/factory.webp",
+          "aliases": [
+            "factory4_day",
+            "factory4_night",
+            "Factory"
+          ]
+        },
+        "interchange": {
+          "label": "Interchange",
+          "file": "tarkov/interchange.webp",
+          "aliases": [
+            "Interchange"
+          ]
+        },
+        "lab": {
+          "label": "The Lab",
+          "file": "tarkov/lab.webp",
+          "aliases": [
+            "laboratory",
+            "The Lab"
+          ]
+        },
+        "labyrinth": {
+          "label": "The Labyrinth",
+          "file": "tarkov/labyrinth.webp",
+          "aliases": [
+            "Labyrinth",
+            "The Labyrinth"
+          ]
+        },
+        "lighthouse": {
+          "label": "Lighthouse",
+          "file": "tarkov/lighthouse.webp",
+          "aliases": [
+            "Lighthouse"
+          ]
+        },
+        "reserve": {
+          "label": "Reserve",
+          "file": "tarkov/reserve.webp",
+          "aliases": [
+            "RezervBase",
+            "Reserve"
+          ]
+        },
+        "shoreline": {
+          "label": "Shoreline",
+          "file": "tarkov/shoreline.webp",
+          "aliases": [
+            "Shoreline"
+          ]
+        },
+        "streets": {
+          "label": "Streets of Tarkov",
+          "file": "tarkov/streets.webp",
+          "aliases": [
+            "TarkovStreets",
+            "Streets of Tarkov"
+          ]
+        },
+        "woods": {
+          "label": "Woods",
+          "file": "tarkov/woods.webp",
+          "aliases": [
+            "Woods"
+          ]
+        },
+        "ground-zero": {
+          "label": "Ground Zero",
+          "file": "tarkov/ground-zero.webp",
+          "aliases": [
+            "Sandbox",
+            "Sandbox_high",
+            "Ground Zero"
+          ]
+        },
+        "terminal": {
+          "label": "Terminal",
+          "file": "tarkov/terminal.webp",
+          "aliases": [
+            "Terminal"
+          ]
+        },
+        "icebreaker": {
+          "label": "Icebreaker",
+          "file": "tarkov/icebreaker.webp",
+          "aliases": [
+            "Icebreaker"
+          ]
+        }
+      }
+    },
+    "warframe": {
+      "name": "Warframe",
+      "steam_appid": "230410",
+      "discord_ids": [
+        "1402418586244612216"
+      ],
+      "items": {
+        "mercury": {
+          "label": "Mercury",
+          "file": "warframe/mercury.webp",
+          "aliases": []
+        },
+        "venus": {
+          "label": "Venus",
+          "file": "warframe/venus.webp",
+          "aliases": []
+        },
+        "earth": {
+          "label": "Earth",
+          "file": "warframe/earth.webp",
+          "aliases": []
+        },
+        "lua": {
+          "label": "Lua",
+          "file": "warframe/lua.webp",
+          "aliases": []
+        },
+        "mars": {
+          "label": "Mars",
+          "file": "warframe/mars.webp",
+          "aliases": []
+        },
+        "deimos": {
+          "label": "Deimos",
+          "file": "warframe/deimos.webp",
+          "aliases": []
+        },
+        "phobos": {
+          "label": "Phobos",
+          "file": "warframe/phobos.webp",
+          "aliases": []
+        },
+        "ceres": {
+          "label": "Ceres",
+          "file": "warframe/ceres.webp",
+          "aliases": []
+        },
+        "jupiter": {
+          "label": "Jupiter",
+          "file": "warframe/jupiter.webp",
+          "aliases": []
+        },
+        "europa": {
+          "label": "Europa",
+          "file": "warframe/europa.webp",
+          "aliases": []
+        },
+        "saturn": {
+          "label": "Saturn",
+          "file": "warframe/saturn.webp",
+          "aliases": []
+        },
+        "uranus": {
+          "label": "Uranus",
+          "file": "warframe/uranus.webp",
+          "aliases": []
+        },
+        "neptune": {
+          "label": "Neptune",
+          "file": "warframe/neptune.webp",
+          "aliases": []
+        },
+        "pluto": {
+          "label": "Pluto",
+          "file": "warframe/pluto.webp",
+          "aliases": []
+        },
+        "eris": {
+          "label": "Eris",
+          "file": "warframe/eris.webp",
+          "aliases": []
+        },
+        "sedna": {
+          "label": "Sedna",
+          "file": "warframe/sedna.webp",
+          "aliases": []
+        },
+        "void": {
+          "label": "Void",
+          "file": "warframe/void.webp",
+          "aliases": []
+        }
+      }
     }
   },
-  "generated": "2026-10-01"
+  "generated": "2026-10-02"
 }

@@ -10,11 +10,19 @@
     {
       "key": "menu",
       "label": "Main menu",
-      "steam": "ss:0",
+      "steam": "ss:1",
       "aliases": [
         "Frontend_Snow",
+        "Frontend_Jungle",
         "Frontend"
-      ]
+      ],
+      "trim": {
+        "top": 0.2,
+        "bottom": 0.32,
+        "left": 0.35,
+        "right": 0.3
+      },
+      "focus": 0.5
     },
     {
       "key": "garage",
@@ -38,14 +46,33 @@
       "steam": "ss:2",
       "aliases": [
         "RideMap"
-      ]
+      ],
+      "trim": {
+        "top": 0.26,
+        "bottom": 0.2,
+        "left": 0.06,
+        "right": 0.45
+      },
+      "focus": 0.45
     },
     {
       "key": "mt-yurbuttsk",
       "label": "Mt. Yurbuttsk",
-      "steam": "ss:4",
       "aliases": [
         "SnowLevel"
+      ],
+      "url": "https://clan.akamai.steamstatic.com/images/45807571/8981c167b854c17caa77731d5403e5bd4a8bb22b.jpg",
+      "source": "https://store.steampowered.com/news/app/3949040",
+      "focus": 1
+    },
+    {
+      "key": "st-buttin-bay",
+      "label": "St. Búttin Bay",
+      "url": "https://clan.akamai.steamstatic.com/images/45807571/d3f9a0a0bf73727ca320caf280ed6642ac71f96c.png",
+      "source": "https://store.steampowered.com/news/app/3949040",
+      "focus": 0.8,
+      "aliases": [
+        "JungleLevel"
       ]
     }
   ]

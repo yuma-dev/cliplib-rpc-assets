@@ -1,0 +1,363 @@
+{
+  "game": "elite-dangerous",
+  "name": "Elite Dangerous",
+  "items": [
+    {
+      "aliases": [
+        "sidewinder"
+      ],
+      "key": "sidewinder",
+      "label": "Sidewinder",
+      "page": "Sidewinder"
+    },
+    {
+      "aliases": [
+        "eagle"
+      ],
+      "key": "eagle",
+      "label": "Eagle",
+      "page": "Eagle"
+    },
+    {
+      "aliases": [
+        "hauler"
+      ],
+      "key": "hauler",
+      "label": "Hauler",
+      "page": "Hauler"
+    },
+    {
+      "aliases": [
+        "adder"
+      ],
+      "key": "adder",
+      "label": "Adder",
+      "page": "Adder"
+    },
+    {
+      "aliases": [
+        "empire_eagle"
+      ],
+      "key": "imperial-eagle",
+      "label": "Imperial Eagle",
+      "page": "Imperial Eagle"
+    },
+    {
+      "aliases": [
+        "viper"
+      ],
+      "key": "viper-mk-iii",
+      "label": "Viper Mk III",
+      "page": "Viper Mk III"
+    },
+    {
+      "aliases": [
+        "cobramkiii"
+      ],
+      "key": "cobra-mk-iii",
+      "label": "Cobra Mk III",
+      "page": "Cobra Mk III"
+    },
+    {
+      "aliases": [
+        "viper_mkiv"
+      ],
+      "key": "viper-mk-iv",
+      "label": "Viper Mk IV",
+      "page": "Viper Mk IV"
+    },
+    {
+      "aliases": [
+        "diamondback"
+      ],
+      "key": "diamondback-scout",
+      "label": "Diamondback Scout",
+      "page": "Diamondback Scout"
+    },
+    {
+      "aliases": [
+        "cobramkiv"
+      ],
+      "key": "cobra-mk-iv",
+      "label": "Cobra Mk IV",
+      "page": "Cobra Mk IV"
+    },
+    {
+      "aliases": [
+        "type6"
+      ],
+      "key": "type-6-transporter",
+      "label": "Type-6 Transporter",
+      "page": "Type-6 Transporter"
+    },
+    {
+      "aliases": [
+        "dolphin"
+      ],
+      "key": "dolphin",
+      "label": "Dolphin",
+      "page": "Dolphin"
+    },
+    {
+      "aliases": [
+        "diamondbackxl"
+      ],
+      "key": "diamondback-explorer",
+      "label": "Diamondback Explorer",
+      "page": "Diamondback Explorer"
+    },
+    {
+      "aliases": [
+        "empire_courier"
+      ],
+      "key": "imperial-courier",
+      "label": "Imperial Courier",
+      "page": "Imperial Courier"
+    },
+    {
+      "aliases": [
+        "independant_trader"
+      ],
+      "key": "keelback",
+      "label": "Keelback",
+      "page": "Keelback"
+    },
+    {
+      "aliases": [
+        "asp_scout"
+      ],
+      "key": "asp-scout",
+      "label": "Asp Scout",
+      "page": "Asp Scout"
+    },
+    {
+      "aliases": [
+        "vulture"
+      ],
+      "key": "vulture",
+      "label": "Vulture",
+      "page": "Vulture"
+    },
+    {
+      "aliases": [
+        "asp"
+      ],
+      "key": "asp-explorer",
+      "label": "Asp Explorer",
+      "page": "Asp Explorer"
+    },
+    {
+      "aliases": [
+        "federation_dropship"
+      ],
+      "key": "federal-dropship",
+      "label": "Federal Dropship",
+      "page": "Federal Dropship"
+    },
+    {
+      "aliases": [
+        "type7"
+      ],
+      "key": "type-7-transporter",
+      "label": "Type-7 Transporter",
+      "page": "Type-7 Transporter"
+    },
+    {
+      "aliases": [
+        "typex"
+      ],
+      "key": "alliance-chieftain",
+      "label": "Alliance Chieftain",
+      "page": "Alliance Chieftain"
+    },
+    {
+      "aliases": [
+        "federation_dropship_mkii"
+      ],
+      "key": "federal-assault-ship",
+      "label": "Federal Assault Ship",
+      "page": "Federal Assault Ship"
+    },
+    {
+      "aliases": [
+        "empire_trader"
+      ],
+      "key": "imperial-clipper",
+      "label": "Imperial Clipper",
+      "page": "Imperial Clipper"
+    },
+    {
+      "aliases": [
+        "typex_2"
+      ],
+      "key": "alliance-crusader",
+      "label": "Alliance Crusader",
+      "page": "Alliance Crusader"
+    },
+    {
+      "aliases": [
+        "typeex_3"
+      ],
+      "key": "alliance-challenger",
+      "label": "Alliance Challenger",
+      "page": "Alliance Challenger"
+    },
+    {
+      "aliases": [
+        "federation_gunship"
+      ],
+      "key": "federal-gunship",
+      "label": "Federal Gunship",
+      "page": "Federal Gunship"
+    },
+    {
+      "aliases": [
+        "krait_light"
+      ],
+      "key": "krait-phantom",
+      "label": "Krait Phantom",
+      "page": "Krait Phantom"
+    },
+    {
+      "aliases": [
+        "krait_mkii"
+      ],
+      "key": "krait-mk-ii",
+      "label": "Krait Mk II",
+      "page": "Krait Mk II"
+    },
+    {
+      "aliases": [
+        "orca"
+      ],
+      "key": "orca",
+      "label": "Orca",
+      "page": "Orca"
+    },
+    {
+      "aliases": [
+        "ferdelance"
+      ],
+      "key": "fer-de-lance",
+      "label": "Fer-de-Lance",
+      "page": "Fer-de-Lance"
+    },
+    {
+      "aliases": [
+        "mamba"
+      ],
+      "key": "mamba",
+      "label": "Mamba",
+      "page": "Mamba"
+    },
+    {
+      "aliases": [
+        "python"
+      ],
+      "key": "python",
+      "label": "Python",
+      "page": "Python"
+    },
+    {
+      "aliases": [
+        "python_nx"
+      ],
+      "key": "python-mk-ii",
+      "label": "Python Mk II",
+      "page": "Python Mk II"
+    },
+    {
+      "aliases": [
+        "type9"
+      ],
+      "key": "type-9-heavy",
+      "label": "Type-9 Heavy",
+      "page": "Type-9 Heavy"
+    },
+    {
+      "aliases": [
+        "belugaliner"
+      ],
+      "key": "beluga-liner",
+      "label": "Beluga Liner",
+      "page": "Beluga Liner"
+    },
+    {
+      "aliases": [
+        "type9_military"
+      ],
+      "key": "type-10-defender",
+      "label": "Type-10 Defender",
+      "page": "Type-10 Defender"
+    },
+    {
+      "aliases": [
+        "anaconda"
+      ],
+      "key": "anaconda",
+      "label": "Anaconda",
+      "page": "Anaconda"
+    },
+    {
+      "aliases": [
+        "federation_corvette"
+      ],
+      "key": "federal-corvette",
+      "label": "Federal Corvette",
+      "page": "Federal Corvette"
+    },
+    {
+      "aliases": [
+        "cutter"
+      ],
+      "key": "imperial-cutter",
+      "label": "Imperial Cutter",
+      "page": "Imperial Cutter"
+    },
+    {
+      "aliases": [
+        "cobramkv"
+      ],
+      "key": "cobra-mk-v",
+      "label": "Cobra Mk V",
+      "page": "Cobra Mk V"
+    },
+    {
+      "aliases": [
+        "type8"
+      ],
+      "key": "type-8-transporter",
+      "label": "Type-8 Transporter",
+      "page": "Type-8 Transporter"
+    },
+    {
+      "aliases": [
+        "panthermkii"
+      ],
+      "key": "panther-clipper-mk-ii",
+      "label": "Panther Clipper Mk II",
+      "page": "Panther Clipper Mk II"
+    },
+    {
+      "aliases": [
+        "corsair"
+      ],
+      "key": "corsair",
+      "label": "Corsair",
+      "page": "Corsair"
+    },
+    {
+      "aliases": [
+        "mandalay"
+      ],
+      "key": "mandalay",
+      "label": "Mandalay",
+      "page": "Mandalay"
+    }
+  ],
+  "wiki": "https://elite-dangerous.fandom.com",
+  "steam_appid": "359320",
+  "discord_ids": [
+    "363413225578037248"
+  ]
+}

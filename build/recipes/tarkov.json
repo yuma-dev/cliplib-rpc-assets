@@ -1,0 +1,124 @@
+{
+  "game": "tarkov",
+  "name": "Escape from Tarkov",
+  "steam_appid": "3932890",
+  "discord_ids": [
+    "406637848297472017"
+  ],
+  "wiki": "https://escapefromtarkov.fandom.com",
+  "items": [
+    {
+      "key": "customs",
+      "label": "Customs",
+      "file": "Customs_Showcase_1.png",
+      "aliases": [
+        "bigmap",
+        "Customs"
+      ]
+    },
+    {
+      "key": "factory",
+      "label": "Factory",
+      "file": "Factory_Showcase_1.png",
+      "aliases": [
+        "factory4_day",
+        "factory4_night",
+        "Factory"
+      ]
+    },
+    {
+      "key": "interchange",
+      "label": "Interchange",
+      "file": "Interchange_Showcase_1.png",
+      "aliases": [
+        "Interchange"
+      ]
+    },
+    {
+      "key": "lab",
+      "label": "The Lab",
+      "file": "The_Lab_Showcase_1.png",
+      "aliases": [
+        "laboratory",
+        "The Lab"
+      ]
+    },
+    {
+      "key": "labyrinth",
+      "label": "The Labyrinth",
+      "file": "The_Labyrinth_Showcase_1.png",
+      "aliases": [
+        "Labyrinth",
+        "The Labyrinth"
+      ]
+    },
+    {
+      "key": "lighthouse",
+      "label": "Lighthouse",
+      "file": "Lighthouse_Showcase_1.png",
+      "aliases": [
+        "Lighthouse"
+      ]
+    },
+    {
+      "key": "reserve",
+      "label": "Reserve",
+      "file": "Reserve_Showcase_1.png",
+      "aliases": [
+        "RezervBase",
+        "Reserve"
+      ]
+    },
+    {
+      "key": "shoreline",
+      "label": "Shoreline",
+      "file": "Shoreline_Showcase_1.png",
+      "aliases": [
+        "Shoreline"
+      ]
+    },
+    {
+      "key": "streets",
+      "label": "Streets of Tarkov",
+      "file": "Streets_of_Tarkov_Showcase_1.png",
+      "aliases": [
+        "TarkovStreets",
+        "Streets of Tarkov"
+      ]
+    },
+    {
+      "key": "woods",
+      "label": "Woods",
+      "file": "Woods_Showcase_1.png",
+      "aliases": [
+        "Woods"
+      ]
+    },
+    {
+      "key": "ground-zero",
+      "label": "Ground Zero",
+      "file": "Ground_Zero_Showcase_1.png",
+      "aliases": [
+        "Sandbox",
+        "Sandbox_high",
+        "Ground Zero"
+      ]
+    },
+    {
+      "key": "terminal",
+      "label": "Terminal",
+      "file": "Terminal_Showcase_1.jpg",
+      "aliases": [
+        "Terminal"
+      ]
+    },
+    {
+      "key": "icebreaker",
+      "label": "Icebreaker",
+      "file": "Icebreaker_Showcase_5.png",
+      "aliases": [
+        "Icebreaker"
+      ]
+    }
+  ]
+}

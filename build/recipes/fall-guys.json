@@ -1,0 +1,371 @@
+{
+  "game": "fall-guys",
+  "name": "Fall Guys",
+  "steam_appid": "1097150",
+  "discord_ids": [
+    "742897755160313986"
+  ],
+  "wiki": "https://fallguysultimateknockout.fandom.com",
+  "items": [
+    {
+      "key": "door-dash",
+      "label": "Door Dash",
+      "page": "Door Dash",
+      "aliases": [
+        "round_door_dash"
+      ]
+    },
+    {
+      "key": "dizzy-heights",
+      "label": "Dizzy Heights",
+      "page": "Dizzy Heights",
+      "aliases": [
+        "round_gauntlet_02"
+      ]
+    },
+    {
+      "key": "gate-crash",
+      "label": "Gate Crash",
+      "page": "Gate Crash",
+      "aliases": [
+        "round_chompchomp"
+      ]
+    },
+    {
+      "key": "hit-parade",
+      "label": "Hit Parade",
+      "page": "Hit Parade",
+      "aliases": [
+        "round_gauntlet_01"
+      ]
+    },
+    {
+      "key": "whirlygig",
+      "label": "The Whirlygig",
+      "page": "The Whirlygig",
+      "aliases": [
+        "round_gauntlet_03"
+      ]
+    },
+    {
+      "key": "see-saw",
+      "label": "See Saw",
+      "page": "See Saw",
+      "aliases": [
+        "round_see_saw"
+      ]
+    },
+    {
+      "key": "slime-climb",
+      "label": "Slime Climb",
+      "page": "Slime Climb",
+      "aliases": [
+        "round_lava"
+      ]
+    },
+    {
+      "key": "tip-toe",
+      "label": "Tip Toe",
+      "page": "Tip Toe",
+      "aliases": [
+        "round_tip_toe"
+      ]
+    },
+    {
+      "key": "fruit-chute",
+      "label": "Fruit Chute",
+      "page": "Fruit Chute",
+      "aliases": [
+        "round_dodge_fall"
+      ]
+    },
+    {
+      "key": "knight-fever",
+      "label": "Knight Fever",
+      "page": "Knight Fever",
+      "aliases": [
+        "round_gauntlet_04"
+      ]
+    },
+    {
+      "key": "wall-guys",
+      "label": "Wall Guys",
+      "page": "Wall Guys",
+      "aliases": [
+        "round_wall_guys"
+      ]
+    },
+    {
+      "key": "big-fans",
+      "label": "Big Fans",
+      "page": "Big Fans",
+      "aliases": [
+        "round_biggestfan"
+      ]
+    },
+    {
+      "key": "freezy-peak",
+      "label": "Freezy Peak",
+      "page": "Freezy Peak",
+      "aliases": [
+        "round_iceclimb"
+      ]
+    },
+    {
+      "key": "tundra-run",
+      "label": "Tundra Run",
+      "page": "Tundra Run",
+      "aliases": [
+        "round_gauntlet_05"
+      ]
+    },
+    {
+      "key": "skyline-stumble",
+      "label": "Skyline Stumble",
+      "page": "Skyline Stumble",
+      "aliases": [
+        "round_gauntlet_06"
+      ]
+    },
+    {
+      "key": "short-circuit",
+      "label": "Short Circuit",
+      "page": "Short Circuit",
+      "aliases": [
+        "round_shortcircuit"
+      ]
+    },
+    {
+      "key": "treetop-tumble",
+      "label": "Treetop Tumble",
+      "page": "Treetop Tumble",
+      "aliases": [
+        "round_gauntlet_07"
+      ]
+    },
+    {
+      "key": "lily-leapers",
+      "label": "Lily Leapers",
+      "page": "Lily Leapers",
+      "aliases": [
+        "round_drumtop"
+      ]
+    },
+    {
+      "key": "party-promenade",
+      "label": "Party Promenade",
+      "page": "Party Promenade",
+      "aliases": [
+        "round_gauntlet_08"
+      ]
+    },
+    {
+      "key": "pipe-dream",
+      "label": "Pipe Dream",
+      "page": "Pipe Dream",
+      "aliases": [
+        "round_pipedup_s6_launch"
+      ]
+    },
+    {
+      "key": "track-attack",
+      "label": "Track Attack",
+      "page": "Track Attack",
+      "aliases": [
+        "round_gauntlet_09_symphony_launch_show"
+      ]
+    },
+    {
+      "key": "slimescraper",
+      "label": "The Slimescraper",
+      "page": "The Slimescraper",
+      "aliases": [
+        "round_slimeclimb_2"
+      ]
+    },
+    {
+      "key": "block-party",
+      "label": "Block Party",
+      "page": "Block Party",
+      "aliases": [
+        "round_block_party"
+      ]
+    },
+    {
+      "key": "jump-club",
+      "label": "Jump Club",
+      "page": "Jump Club",
+      "aliases": [
+        "round_jump_club"
+      ]
+    },
+    {
+      "key": "roll-out",
+      "label": "Roll Out",
+      "page": "Roll Out",
+      "aliases": [
+        "round_tunnel"
+      ]
+    },
+    {
+      "key": "perfect-match",
+      "label": "Perfect Match",
+      "page": "Perfect Match",
+      "aliases": [
+        "round_match_fall"
+      ]
+    },
+    {
+      "key": "tail-tag",
+      "label": "Tail Tag",
+      "page": "Tail Tag",
+      "aliases": [
+        "round_tail_tag"
+      ]
+    },
+    {
+      "key": "team-tail-tag",
+      "label": "Team Tail Tag",
+      "page": "Team Tail Tag",
+      "aliases": [
+        "round_conveyor_arena"
+      ]
+    },
+    {
+      "key": "fall-ball",
+      "label": "Fall Ball",
+      "page": "Fall Ball",
+      "aliases": [
+        "round_fall_ball_60_players"
+      ]
+    },
+    {
+      "key": "hoopsie-daisy",
+      "label": "Hoopsie Daisy",
+      "page": "Hoopsie Daisy",
+      "aliases": [
+        "round_hoops"
+      ]
+    },
+    {
+      "key": "egg-scramble",
+      "label": "Egg Scramble",
+      "page": "Egg Scramble",
+      "aliases": [
+        "round_egg_grab"
+      ]
+    },
+    {
+      "key": "jinxed",
+      "label": "Jinxed",
+      "page": "Jinxed",
+      "aliases": [
+        "round_jinxed"
+      ]
+    },
+    {
+      "key": "rock-n-roll",
+      "label": "Rock 'n' Roll",
+      "page": "Rock 'n' Roll",
+      "aliases": [
+        "round_rocknroll"
+      ]
+    },
+    {
+      "key": "hex-a-gone",
+      "label": "Hex-A-Gone",
+      "page": "Hex-A-Gone",
+      "aliases": [
+        "round_floor_fall"
+      ]
+    },
+    {
+      "key": "jump-showdown",
+      "label": "Jump Showdown",
+      "page": "Jump Showdown",
+      "aliases": [
+        "round_jump_showdown"
+      ]
+    },
+    {
+      "key": "fall-mountain",
+      "label": "Fall Mountain",
+      "page": "Fall Mountain",
+      "aliases": [
+        "round_fall_mountain_hub_complete"
+      ]
+    },
+    {
+      "key": "royal-fumble",
+      "label": "Royal Fumble",
+      "page": "Royal Fumble",
+      "aliases": [
+        "round_royal_rumble"
+      ]
+    },
+    {
+      "key": "thin-ice",
+      "label": "Thin Ice",
+      "page": "Thin Ice",
+      "aliases": [
+        "round_thin_ice"
+      ]
+    },
+    {
+      "key": "blast-ball",
+      "label": "Blast Ball",
+      "page": "Blast Ball",
+      "aliases": [
+        "round_blastball_arenasurvival_symphony_launch_show"
+      ]
+    },
+    {
+      "key": "hex-a-ring",
+      "label": "Hex-A-Ring",
+      "page": "Hex-A-Ring",
+      "aliases": [
+        "round_hexaring_symphony_launch_show"
+      ]
+    },
+    {
+      "key": "hex-a-terrestrial",
+      "label": "Hex-A-Terrestrial",
+      "page": "Hex-A-Terrestrial",
+      "aliases": [
+        "round_hexsnake_almond"
+      ]
+    },
+    {
+      "key": "roll-off",
+      "label": "Roll Off",
+      "page": "Roll Off",
+      "aliases": [
+        "round_tunnel_final"
+      ]
+    },
+    {
+      "key": "button-bashers",
+      "label": "Button Bashers",
+      "page": "Button Bashers",
+      "aliases": [
+        "round_1v1_button_basher"
+      ]
+    },
+    {
+      "key": "stompin-ground",
+      "label": "Stompin' Ground",
+      "page": "Stompin' Ground",
+      "aliases": [
+        "round_robotrampage_arena_2"
+      ]
+    },
+    {
+      "key": "big-shots",
+      "label": "Big Shots",
+      "page": "Big Shots",
+      "aliases": [
+        "round_fruitpunch_s4_show"
+      ]
+    }
+  ]
+}

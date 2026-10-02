@@ -9,6 +9,676 @@
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/ss_f57e6a13592c1dee5d903218e31d4add71dbaa83.1920x1080.jpg?t=1788195774",
     "game": "Abiotic Factor"
   },
+  "balatro/b_abandoned.webp": {
+    "source": "https://balatrowiki.org/Abandoned_Deck",
+    "image": "https://balatrowiki.org/images/Abandoned_Deck.png",
+    "game": "Balatro"
+  },
+  "balatro/b_anaglyph.webp": {
+    "source": "https://balatrowiki.org/Anaglyph_Deck",
+    "image": "https://balatrowiki.org/images/Anaglyph_Deck.png",
+    "game": "Balatro"
+  },
+  "balatro/b_black.webp": {
+    "source": "https://balatrowiki.org/Black_Deck",
+    "image": "https://balatrowiki.org/images/Black_Deck.png",
+    "game": "Balatro"
+  },
+  "balatro/b_blue.webp": {
+    "source": "https://balatrowiki.org/Blue_Deck",
+    "image": "https://balatrowiki.org/images/Blue_Deck.png",
+    "game": "Balatro"
+  },
+  "balatro/b_checkered.webp": {
+    "source": "https://balatrowiki.org/Checkered_Deck",
+    "image": "https://balatrowiki.org/images/Checkered_Deck.png",
+    "game": "Balatro"
+  },
+  "balatro/b_erratic.webp": {
+    "source": "https://balatrowiki.org/Erratic_Deck",
+    "image": "https://balatrowiki.org/images/Erratic_Deck.png",
+    "game": "Balatro"
+  },
+  "balatro/b_ghost.webp": {
+    "source": "https://balatrowiki.org/Ghost_Deck",
+    "image": "https://balatrowiki.org/images/Ghost_Deck.png",
+    "game": "Balatro"
+  },
+  "balatro/b_green.webp": {
+    "source": "https://balatrowiki.org/Green_Deck",
+    "image": "https://balatrowiki.org/images/Green_Deck.png",
+    "game": "Balatro"
+  },
+  "balatro/b_magic.webp": {
+    "source": "https://balatrowiki.org/Magic_Deck",
+    "image": "https://balatrowiki.org/images/Magic_Deck.png",
+    "game": "Balatro"
+  },
+  "balatro/b_nebula.webp": {
+    "source": "https://balatrowiki.org/Nebula_Deck",
+    "image": "https://balatrowiki.org/images/Nebula_Deck.png",
+    "game": "Balatro"
+  },
+  "balatro/b_painted.webp": {
+    "source": "https://balatrowiki.org/Painted_Deck",
+    "image": "https://balatrowiki.org/images/Painted_Deck.png",
+    "game": "Balatro"
+  },
+  "balatro/b_plasma.webp": {
+    "source": "https://balatrowiki.org/Plasma_Deck",
+    "image": "https://balatrowiki.org/images/Plasma_Deck.png",
+    "game": "Balatro"
+  },
+  "balatro/b_red.webp": {
+    "source": "https://balatrowiki.org/Red_Deck",
+    "image": "https://balatrowiki.org/images/Red_Deck.png",
+    "game": "Balatro"
+  },
+  "balatro/b_yellow.webp": {
+    "source": "https://balatrowiki.org/Yellow_Deck",
+    "image": "https://balatrowiki.org/images/Yellow_Deck.png",
+    "game": "Balatro"
+  },
+  "balatro/b_zodiac.webp": {
+    "source": "https://balatrowiki.org/Zodiac_Deck",
+    "image": "https://balatrowiki.org/images/Zodiac_Deck.png",
+    "game": "Balatro"
+  },
+  "balatro/bl_arm.webp": {
+    "source": "https://balatrowiki.org/The_Arm",
+    "image": "https://balatrowiki.org/images/The_Arm.png",
+    "game": "Balatro"
+  },
+  "balatro/bl_big.webp": {
+    "source": "https://balatrowiki.org/Big_Blind",
+    "image": "https://balatrowiki.org/images/Big_Blind.png",
+    "game": "Balatro"
+  },
+  "balatro/bl_club.webp": {
+    "source": "https://balatrowiki.org/The_Club",
+    "image": "https://balatrowiki.org/images/The_Club.png",
+    "game": "Balatro"
+  },
+  "balatro/bl_eye.webp": {
+    "source": "https://balatrowiki.org/The_Eye",
+    "image": "https://balatrowiki.org/images/The_Eye.png",
+    "game": "Balatro"
+  },
+  "balatro/bl_final_acorn.webp": {
+    "source": "https://balatrowiki.org/Amber_Acorn",
+    "image": "https://balatrowiki.org/images/Amber_Acorn.png",
+    "game": "Balatro"
+  },
+  "balatro/bl_final_bell.webp": {
+    "source": "https://balatrowiki.org/Cerulean_Bell",
+    "image": "https://balatrowiki.org/images/Cerulean_Bell.png",
+    "game": "Balatro"
+  },
+  "balatro/bl_final_heart.webp": {
+    "source": "https://balatrowiki.org/Crimson_Heart",
+    "image": "https://balatrowiki.org/images/Crimson_Heart.png",
+    "game": "Balatro"
+  },
+  "balatro/bl_final_leaf.webp": {
+    "source": "https://balatrowiki.org/Verdant_Leaf",
+    "image": "https://balatrowiki.org/images/Verdant_Leaf.png",
+    "game": "Balatro"
+  },
+  "balatro/bl_final_vessel.webp": {
+    "source": "https://balatrowiki.org/Violet_Vessel",
+    "image": "https://balatrowiki.org/images/Violet_Vessel.png",
+    "game": "Balatro"
+  },
+  "balatro/bl_fish.webp": {
+    "source": "https://balatrowiki.org/The_Fish",
+    "image": "https://balatrowiki.org/images/The_Fish.png",
+    "game": "Balatro"
+  },
+  "balatro/bl_flint.webp": {
+    "source": "https://balatrowiki.org/The_Flint",
+    "image": "https://balatrowiki.org/images/The_Flint.png",
+    "game": "Balatro"
+  },
+  "balatro/bl_goad.webp": {
+    "source": "https://balatrowiki.org/The_Goad",
+    "image": "https://balatrowiki.org/images/The_Goad.png",
+    "game": "Balatro"
+  },
+  "balatro/bl_head.webp": {
+    "source": "https://balatrowiki.org/The_Head",
+    "image": "https://balatrowiki.org/images/The_Head.png",
+    "game": "Balatro"
+  },
+  "balatro/bl_hook.webp": {
+    "source": "https://balatrowiki.org/The_Hook",
+    "image": "https://balatrowiki.org/images/The_Hook.png",
+    "game": "Balatro"
+  },
+  "balatro/bl_house.webp": {
+    "source": "https://balatrowiki.org/The_House",
+    "image": "https://balatrowiki.org/images/The_House.png",
+    "game": "Balatro"
+  },
+  "balatro/bl_manacle.webp": {
+    "source": "https://balatrowiki.org/The_Manacle",
+    "image": "https://balatrowiki.org/images/The_Manacle.png",
+    "game": "Balatro"
+  },
+  "balatro/bl_mark.webp": {
+    "source": "https://balatrowiki.org/The_Mark",
+    "image": "https://balatrowiki.org/images/The_Mark.png",
+    "game": "Balatro"
+  },
+  "balatro/bl_mouth.webp": {
+    "source": "https://balatrowiki.org/The_Mouth",
+    "image": "https://balatrowiki.org/images/The_Mouth.png",
+    "game": "Balatro"
+  },
+  "balatro/bl_needle.webp": {
+    "source": "https://balatrowiki.org/The_Needle",
+    "image": "https://balatrowiki.org/images/The_Needle.png",
+    "game": "Balatro"
+  },
+  "balatro/bl_ox.webp": {
+    "source": "https://balatrowiki.org/The_Ox",
+    "image": "https://balatrowiki.org/images/The_Ox.png",
+    "game": "Balatro"
+  },
+  "balatro/bl_pillar.webp": {
+    "source": "https://balatrowiki.org/The_Pillar",
+    "image": "https://balatrowiki.org/images/The_Pillar.png",
+    "game": "Balatro"
+  },
+  "balatro/bl_plant.webp": {
+    "source": "https://balatrowiki.org/The_Plant",
+    "image": "https://balatrowiki.org/images/The_Plant.png",
+    "game": "Balatro"
+  },
+  "balatro/bl_psychic.webp": {
+    "source": "https://balatrowiki.org/The_Psychic",
+    "image": "https://balatrowiki.org/images/The_Psychic.png",
+    "game": "Balatro"
+  },
+  "balatro/bl_serpent.webp": {
+    "source": "https://balatrowiki.org/The_Serpent",
+    "image": "https://balatrowiki.org/images/The_Serpent.png",
+    "game": "Balatro"
+  },
+  "balatro/bl_small.webp": {
+    "source": "https://balatrowiki.org/Small_Blind",
+    "image": "https://balatrowiki.org/images/Small_Blind.png",
+    "game": "Balatro"
+  },
+  "balatro/bl_tooth.webp": {
+    "source": "https://balatrowiki.org/The_Tooth",
+    "image": "https://balatrowiki.org/images/The_Tooth.png",
+    "game": "Balatro"
+  },
+  "balatro/bl_wall.webp": {
+    "source": "https://balatrowiki.org/The_Wall",
+    "image": "https://balatrowiki.org/images/The_Wall.png",
+    "game": "Balatro"
+  },
+  "balatro/bl_water.webp": {
+    "source": "https://balatrowiki.org/The_Water",
+    "image": "https://balatrowiki.org/images/The_Water.png",
+    "game": "Balatro"
+  },
+  "balatro/bl_wheel.webp": {
+    "source": "https://balatrowiki.org/The_Wheel",
+    "image": "https://balatrowiki.org/images/The_Wheel.png",
+    "game": "Balatro"
+  },
+  "balatro/bl_window.webp": {
+    "source": "https://balatrowiki.org/The_Window",
+    "image": "https://balatrowiki.org/images/The_Window.png",
+    "game": "Balatro"
+  },
+  "elite-dangerous/adder.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Adder",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/3/3b/Adder-docked-ship.png/revision/latest?cb=20181128110147",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/alliance-challenger.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Alliance_Challenger",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/6/68/Alliance_Challenger.png/revision/latest?cb=20180531195849",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/alliance-chieftain.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Alliance_Chieftain",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/6/6f/Chieftain-Ship-Station.png/revision/latest?cb=20180125150420",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/alliance-crusader.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Alliance_Crusader",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/3/38/Alliance-Crusader-ship-in-ED.png/revision/latest?cb=20190125092317",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/anaconda.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Anaconda",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/a/a4/Anaconda.png/revision/latest?cb=20191215020137",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/asp-explorer.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Asp_Explorer",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/a/ac/Asp_Explorer_-_Profile.png/revision/latest?cb=20160507051518",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/asp-scout.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Asp_Scout",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/f/f2/Asp_Scout_Profile_near_water_world_cropped.jpg/revision/latest?cb=20240606184400",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/beluga-liner.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Beluga_Liner",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/1/11/Beluga_Liner_Passenger_Carrier.jpeg/revision/latest?cb=20240522105631",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/cobra-mk-iii.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Cobra_Mk_III",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/f/fa/Cobra_MK_III_-_Profile.png/revision/latest?cb=20151202041758",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/cobra-mk-iv.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Cobra_Mk_IV",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/d/d3/Cobra_MK_IV_-_Profile.png/revision/latest?cb=20160507052333",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/cobra-mk-v.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Cobra_Mk_V",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/4/40/Cobra_Mk_V_ship_launch_1.jpg/revision/latest?cb=20241213182314",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/corsair.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Corsair",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/e/ea/Corsair_Ship_Gutamaya_Front.jpg/revision/latest?cb=20250408103542",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/diamondback-explorer.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Diamondback_Explorer",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/a/ae/Diamondback_Explorer_new_default.png/revision/latest?cb=20190626042002",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/diamondback-scout.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Diamondback_Scout",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/4/4a/Diamondback_Scout_-_Profile.png/revision/latest?cb=20160522041450",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/dolphin.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Dolphin",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/b/b1/Dolphin_Asteroids.jpg/revision/latest?cb=20170412235316",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/eagle.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Eagle",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/2/2b/Eagle-mkII-ship-flying.png/revision/latest?cb=20181128121533",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/federal-assault-ship.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Federal_Assault_Ship",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/c/cb/Federal_Assault_Ship_2.png/revision/latest?cb=20190626041739",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/federal-corvette.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Federal_Corvette",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/e/e0/Federal_Corvette_at_Earth.png/revision/latest?cb=20151115104243",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/federal-dropship.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Federal_Dropship",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/0/01/Federal_Dropship.png/revision/latest?cb=20190626041511",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/federal-gunship.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Federal_Gunship",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/c/c4/Federal_Gunship_2.png/revision/latest?cb=20190626041859",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/fer-de-lance.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Fer-de-Lance",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/4/4d/Fer-de-Lance-ship-top-view.png/revision/latest?cb=20181128113824",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/hauler.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Hauler",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/b/bd/Hauler-ship-docked-front.png/revision/latest?cb=20181128120633",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/imperial-clipper.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Imperial_Clipper",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/9/9a/Imperial-Clipper-ship-flying-space.png/revision/latest?cb=20181128180645",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/imperial-courier.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Imperial_Courier",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/6/6a/Imperial-Courier_zpschq7esel.jpg/revision/latest?cb=20151006060626",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/imperial-cutter.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Imperial_Cutter",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/8/83/Imperial_Cutter_and_Gas_Giant.png/revision/latest?cb=20151123165346",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/imperial-eagle.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Imperial_Eagle",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/6/6b/Imperial-Eagle-Ship-Space.png/revision/latest?cb=20181128184722",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/keelback.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Keelback",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/f/fe/Keelback_Hangar.jpg/revision/latest?cb=20170212222534",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/krait-mk-ii.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Krait_Mk_II",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/7/76/Krait_MKII_flight_1_4K_Use_for_infographic.jpg/revision/latest?cb=20180625153559",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/krait-phantom.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Krait_Phantom",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/d/de/Krait_Phantom.png/revision/latest?cb=20181109220714",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/mamba.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Mamba",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/b/b8/Elite-Dangerous-Mamba.png/revision/latest?cb=20181231070755",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/mandalay.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Mandalay",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/8/8e/Mandalay_in_space_ED.jpg/revision/latest?cb=20241102074611",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/orca.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Orca",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/1/19/Orca-Earth-like-Planet.png/revision/latest?cb=20170709093712",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/panther-clipper-mk-ii.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Panther_Clipper_Mk_II",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/9/97/Panther_Clipper_Mk_II_In-game_1.jpg/revision/latest?cb=20250625224855",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/python-mk-ii.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Python_Mk_II",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/6/6b/Python_MkII_space.jpg/revision/latest?cb=20240424045240",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/python.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Python",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/e/e4/Python.png/revision/latest?cb=20191218004431",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/sidewinder.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Sidewinder",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/e/e7/Sidewinder-MkI-front-docked.png/revision/latest?cb=20181128125106",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/type-10-defender.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Type-10_Defender",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/4/47/Type-10_Defender_with_T9_and_T7.png/revision/latest?cb=20171219211716",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/type-6-transporter.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Type-6_Transporter",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/7/7c/Type-6-Transporter-Docked.png/revision/latest?cb=20180108062845",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/type-7-transporter.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Type-7_Transporter",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/0/04/Type7_1.png/revision/latest?cb=20190626043818",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/type-8-transporter.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Type-8_Transporter",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/d/df/Type-8_Transporter_base_ship_1.jpg/revision/latest?cb=20240808000129",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/type-9-heavy.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Type-9_Heavy",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/b/b3/Type-9_Heavy.png/revision/latest?cb=20190626042422",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/viper-mk-iii.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Viper_Mk_III",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/b/b5/Viper_MK_III_-_Profile.png/revision/latest?cb=20181128123633",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/viper-mk-iv.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Viper_Mk_IV",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/5/5f/Viper_MK_IV_-_Profile.png/revision/latest?cb=20160507051926",
+    "game": "Elite Dangerous"
+  },
+  "elite-dangerous/vulture.webp": {
+    "source": "https://elite-dangerous.fandom.com/wiki/Vulture",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/d/d2/Vulture-ship-flying-sideview.png/revision/latest?cb=20181128134709",
+    "game": "Elite Dangerous"
+  },
+  "fall-guys/big-fans.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Big_Fans",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/f/f2/Big_fans_official.png/revision/latest?cb=20210304195009",
+    "game": "Fall Guys"
+  },
+  "fall-guys/big-shots.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Big_Shots",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/8/84/Big_Shots_Splash.png/revision/latest?cb=20210322140848",
+    "game": "Fall Guys"
+  },
+  "fall-guys/blast-ball.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Blast_Ball",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/b/b5/Splash_Blast_Ball.png/revision/latest?cb=20220621102313",
+    "game": "Fall Guys"
+  },
+  "fall-guys/block-party.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Block_Party",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/4/46/Splash_Block_Party.png/revision/latest?cb=20220628220301",
+    "game": "Fall Guys"
+  },
+  "fall-guys/button-bashers.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Button_Bashers",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/6/61/Splash_Buttonbashers.png/revision/latest?cb=20210512190243",
+    "game": "Fall Guys"
+  },
+  "fall-guys/dizzy-heights.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Dizzy_Heights",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/d/d1/Splash_Rotatonator.png/revision/latest?cb=20200801185652",
+    "game": "Fall Guys"
+  },
+  "fall-guys/door-dash.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Door_Dash",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/f/f0/Splash_Door_Dash.png/revision/latest?cb=20220628220302",
+    "game": "Fall Guys"
+  },
+  "fall-guys/egg-scramble.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Egg_Scramble",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/c/cc/Splash_Egg_Scramble.png/revision/latest?cb=20220628220304",
+    "game": "Fall Guys"
+  },
+  "fall-guys/fall-ball.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Fall_Ball",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/a/ac/Splash_FallBall.png/revision/latest?cb=20221009181100",
+    "game": "Fall Guys"
+  },
+  "fall-guys/fall-mountain.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Fall_Mountain",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/8/82/Splash_Fall_Mountain.png/revision/latest?cb=20220628220305",
+    "game": "Fall Guys"
+  },
+  "fall-guys/freezy-peak.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Freezy_Peak",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/a/af/FreezyPeakLoadingScreenshot.png/revision/latest?cb=20201219141230",
+    "game": "Fall Guys"
+  },
+  "fall-guys/fruit-chute.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Fruit_Chute",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/c/cb/Splash_FruitChute.png/revision/latest?cb=20200801185640",
+    "game": "Fall Guys"
+  },
+  "fall-guys/gate-crash.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Gate_Crash",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/f/fa/Splash_Gate_Crash.png/revision/latest?cb=20220628220307",
+    "game": "Fall Guys"
+  },
+  "fall-guys/hex-a-gone.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Hex-A-Gone",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/a/a2/Splash_Hex-A-Gone.png/revision/latest?cb=20220628220308",
+    "game": "Fall Guys"
+  },
+  "fall-guys/hex-a-ring.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Hex-A-Ring",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/b/bb/Splash_Hex-A-Ring.png/revision/latest?cb=20220621102316",
+    "game": "Fall Guys"
+  },
+  "fall-guys/hex-a-terrestrial.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Hex-A-Terrestrial",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/7/7c/Splash_HexaTerrestrial.png/revision/latest?cb=20220915115444",
+    "game": "Fall Guys"
+  },
+  "fall-guys/hit-parade.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Hit_Parade",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/d/d3/Splash_Hit_Parade.png/revision/latest?cb=20200801185641",
+    "game": "Fall Guys"
+  },
+  "fall-guys/hoopsie-daisy.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Hoopsie_Daisy",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/b/b5/Splash_HoopsieDaisy.png/revision/latest?cb=20200801185645",
+    "game": "Fall Guys"
+  },
+  "fall-guys/jinxed.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Jinxed",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/8/84/Splash_Jinxed.png/revision/latest?cb=20220628220309",
+    "game": "Fall Guys"
+  },
+  "fall-guys/jump-club.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Jump_Club",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/2/22/Splash_JumpClub_New.png/revision/latest?cb=20240615195530",
+    "game": "Fall Guys"
+  },
+  "fall-guys/jump-showdown.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Jump_Showdown",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/4/41/Splash_Jump_Showdown.png/revision/latest?cb=20220628220310",
+    "game": "Fall Guys"
+  },
+  "fall-guys/knight-fever.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Knight_Fever",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/a/ad/Knight_Fever.png/revision/latest?cb=20210304194934",
+    "game": "Fall Guys"
+  },
+  "fall-guys/lily-leapers.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Lily_Leapers",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/8/86/Splash_LilyLeapers.png/revision/latest?cb=20210720101058",
+    "game": "Fall Guys"
+  },
+  "fall-guys/party-promenade.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Party_Promenade",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/d/d3/Splash_Party_Promenade.png/revision/latest?cb=20211130135047",
+    "game": "Fall Guys"
+  },
+  "fall-guys/perfect-match.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Perfect_Match",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/0/09/Splash_Perfect_Match.png/revision/latest?cb=20220628220312",
+    "game": "Fall Guys"
+  },
+  "fall-guys/pipe-dream.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Pipe_Dream",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/f/f7/Splash_Pipe_Dream.png/revision/latest?cb=20211130135107",
+    "game": "Fall Guys"
+  },
+  "fall-guys/rock-n-roll.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Rock_'n'_Roll",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/b/b6/Splash_RockandRoll.png/revision/latest?cb=20200801185650",
+    "game": "Fall Guys"
+  },
+  "fall-guys/roll-off.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Roll_Off",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/d/dd/Splash_RollOff.png/revision/latest?cb=20210202171456",
+    "game": "Fall Guys"
+  },
+  "fall-guys/roll-out.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Roll_Out",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/9/9f/Splash_Roll_Out.png/revision/latest?cb=20220628220313",
+    "game": "Fall Guys"
+  },
+  "fall-guys/royal-fumble.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Royal_Fumble",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/1/15/Splash_Royal_Fumble.png/revision/latest?cb=20220628220315",
+    "game": "Fall Guys"
+  },
+  "fall-guys/see-saw.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/See_Saw",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/4/48/Splash_SeeSaw.png/revision/latest?cb=20200801185654",
+    "game": "Fall Guys"
+  },
+  "fall-guys/short-circuit.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Short_Circuit",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/9/9f/Shortartwork.png/revision/latest?cb=20210322152309",
+    "game": "Fall Guys"
+  },
+  "fall-guys/skyline-stumble.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Skyline_Stumble",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/4/45/Skylineartwork.png/revision/latest?cb=20210322104717",
+    "game": "Fall Guys"
+  },
+  "fall-guys/slime-climb.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Slime_Climb",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/0/00/Splash_Slime_Climb.png/revision/latest?cb=20230719223032",
+    "game": "Fall Guys"
+  },
+  "fall-guys/slimescraper.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/The_Slimescraper",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/b/bc/Slimescraper.png/revision/latest?cb=20210512185950",
+    "game": "Fall Guys"
+  },
+  "fall-guys/stompin-ground.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Stompin'_Ground",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/a/a2/Splash_StompinGround.png/revision/latest?cb=20210720101103",
+    "game": "Fall Guys"
+  },
+  "fall-guys/tail-tag.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Tail_Tag",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/9/95/Splash_TailTag.png/revision/latest?cb=20200801185655",
+    "game": "Fall Guys"
+  },
+  "fall-guys/team-tail-tag.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Team_Tail_Tag",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/2/2b/Splash_TeamTailTag.png/revision/latest?cb=20200801185656",
+    "game": "Fall Guys"
+  },
+  "fall-guys/thin-ice.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Thin_Ice",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/7/7d/Splash_ThinIce.png/revision/latest?cb=20201215231851",
+    "game": "Fall Guys"
+  },
+  "fall-guys/tip-toe.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Tip_Toe",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/c/c6/Splash_Tip_Toe.png/revision/latest?cb=20220628220318",
+    "game": "Fall Guys"
+  },
+  "fall-guys/track-attack.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Track_Attack",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/b/b4/Splash_Track_Attack.png/revision/latest?cb=20220621102320",
+    "game": "Fall Guys"
+  },
+  "fall-guys/treetop-tumble.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Treetop_Tumble",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/2/23/Splash_TreetopTumble.png/revision/latest?cb=20210720101104",
+    "game": "Fall Guys"
+  },
+  "fall-guys/tundra-run.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Tundra_Run",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/1/17/Tundra.png/revision/latest?cb=20210304194755",
+    "game": "Fall Guys"
+  },
+  "fall-guys/wall-guys.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/Wall_Guys",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/0/05/Wall_Guys.png/revision/latest?cb=20210304194705",
+    "game": "Fall Guys"
+  },
+  "fall-guys/whirlygig.webp": {
+    "source": "https://fallguysultimateknockout.fandom.com/wiki/The_Whirlygig",
+    "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/9/9d/Splash_The_Whirlygig.png/revision/latest?cb=20220628220316",
+    "game": "Fall Guys"
+  },
   "fortnite/hermes.webp": {
     "source": "https://fortnite-api.com",
     "image": "https://fortnite-api.com/images/map.png",
@@ -64,6 +734,86 @@
     "image": "https://static.wikia.nocookie.net/golf-it/images/b/b1/Winterland.png/revision/latest?cb=20230821042104",
     "game": "Golf It!"
   },
+  "hytale/orbis.webp": {
+    "source": "https://hytalewiki.org/wiki/File%3AHytale-wallpaper-1920x1080-005.jpg",
+    "image": "https://hytalewiki.org/images/Hytale-wallpaper-1920x1080-005.jpg?15f86",
+    "game": "Hytale"
+  },
+  "path-of-exile/poe1-duelist.webp": {
+    "source": "https://www.poewiki.net/wiki/File%3ADuelist_character_class.png",
+    "image": "https://www.poewiki.net/images/6/6d/Duelist_character_class.png",
+    "game": "Path of Exile 1 and 2"
+  },
+  "path-of-exile/poe1-marauder.webp": {
+    "source": "https://www.poewiki.net/wiki/File%3AMarauder_character_class.png",
+    "image": "https://www.poewiki.net/images/b/b1/Marauder_character_class.png",
+    "game": "Path of Exile 1 and 2"
+  },
+  "path-of-exile/poe1-ranger.webp": {
+    "source": "https://www.poewiki.net/wiki/File%3ARanger_character_class.png",
+    "image": "https://www.poewiki.net/images/f/f4/Ranger_character_class.png",
+    "game": "Path of Exile 1 and 2"
+  },
+  "path-of-exile/poe1-scion.webp": {
+    "source": "https://www.poewiki.net/wiki/File%3AScion_character_class.png",
+    "image": "https://www.poewiki.net/images/7/77/Scion_character_class.png",
+    "game": "Path of Exile 1 and 2"
+  },
+  "path-of-exile/poe1-shadow.webp": {
+    "source": "https://www.poewiki.net/wiki/File%3AShadow_character_class.png",
+    "image": "https://www.poewiki.net/images/5/5b/Shadow_character_class.png",
+    "game": "Path of Exile 1 and 2"
+  },
+  "path-of-exile/poe1-templar.webp": {
+    "source": "https://www.poewiki.net/wiki/File%3ATemplar_character_class.png",
+    "image": "https://www.poewiki.net/images/a/a8/Templar_character_class.png",
+    "game": "Path of Exile 1 and 2"
+  },
+  "path-of-exile/poe1-witch.webp": {
+    "source": "https://www.poewiki.net/wiki/File%3AWitch_character_class.png",
+    "image": "https://www.poewiki.net/images/6/64/Witch_character_class.png",
+    "game": "Path of Exile 1 and 2"
+  },
+  "path-of-exile/poe2-druid.webp": {
+    "source": "https://www.poe2wiki.net/wiki/File%3ADruid_portrait.png",
+    "image": "https://www.poe2wiki.net/images/7/75/Druid_portrait.png",
+    "game": "Path of Exile 1 and 2"
+  },
+  "path-of-exile/poe2-huntress.webp": {
+    "source": "https://www.poe2wiki.net/wiki/File%3AHuntress_portrait.png",
+    "image": "https://www.poe2wiki.net/images/a/a8/Huntress_portrait.png",
+    "game": "Path of Exile 1 and 2"
+  },
+  "path-of-exile/poe2-mercenary.webp": {
+    "source": "https://www.poe2wiki.net/wiki/File%3AMercenary_portrait.png",
+    "image": "https://www.poe2wiki.net/images/3/33/Mercenary_portrait.png",
+    "game": "Path of Exile 1 and 2"
+  },
+  "path-of-exile/poe2-monk.webp": {
+    "source": "https://www.poe2wiki.net/wiki/File%3AMonk_portrait.png",
+    "image": "https://www.poe2wiki.net/images/e/e9/Monk_portrait.png",
+    "game": "Path of Exile 1 and 2"
+  },
+  "path-of-exile/poe2-ranger.webp": {
+    "source": "https://www.poe2wiki.net/wiki/File%3ARanger_portrait.png",
+    "image": "https://www.poe2wiki.net/images/f/f9/Ranger_portrait.png",
+    "game": "Path of Exile 1 and 2"
+  },
+  "path-of-exile/poe2-sorceress.webp": {
+    "source": "https://www.poe2wiki.net/wiki/File%3ASorceress_portrait.png",
+    "image": "https://www.poe2wiki.net/images/d/d2/Sorceress_portrait.png",
+    "game": "Path of Exile 1 and 2"
+  },
+  "path-of-exile/poe2-warrior.webp": {
+    "source": "https://www.poe2wiki.net/wiki/File%3AWarrior_portrait.png",
+    "image": "https://www.poe2wiki.net/images/c/c6/Warrior_portrait.png",
+    "game": "Path of Exile 1 and 2"
+  },
+  "path-of-exile/poe2-witch.webp": {
+    "source": "https://www.poe2wiki.net/wiki/File%3AWitch_portrait.png",
+    "image": "https://www.poe2wiki.net/images/7/7e/Witch_portrait.png",
+    "game": "Path of Exile 1 and 2"
+  },
   "peak/airport.webp": {
     "source": "https://peak.wiki.gg/wiki/File%3AAirport_Location.png",
     "image": "https://peak.wiki.gg/images/Airport_Location.png?165e3e",
@@ -108,6 +858,81 @@
     "source": "https://peak.wiki.gg/wiki/File%3ATropics_Location.png",
     "image": "https://peak.wiki.gg/images/Tropics_Location.png?f80c1a",
     "game": "PEAK"
+  },
+  "phasmophobia/bleasdale.webp": {
+    "source": "https://phasmophobia.fandom.com/wiki/Bleasdale_Farmhouse",
+    "image": "https://static.wikia.nocookie.net/phasmophobia/images/a/a6/Bleasdalereworked.png/revision/latest?cb=20250313110653",
+    "game": "Phasmophobia"
+  },
+  "phasmophobia/brownstone.webp": {
+    "source": "https://phasmophobia.fandom.com/wiki/Brownstone_High_School",
+    "image": "https://static.wikia.nocookie.net/phasmophobia/images/a/a5/High_school_updated2.png/revision/latest?cb=20260722094041",
+    "game": "Phasmophobia"
+  },
+  "phasmophobia/camp-woodwind.webp": {
+    "source": "https://phasmophobia.fandom.com/wiki/Camp_Woodwind",
+    "image": "https://static.wikia.nocookie.net/phasmophobia/images/7/7b/Camp_woodwind.png/revision/latest?cb=20240112131010",
+    "game": "Phasmophobia"
+  },
+  "phasmophobia/edgefield.webp": {
+    "source": "https://phasmophobia.fandom.com/wiki/42_Edgefield_Road",
+    "image": "https://static.wikia.nocookie.net/phasmophobia/images/8/80/Edgefield_first_floor_hallway.png/revision/latest?cb=20240112130531",
+    "game": "Phasmophobia"
+  },
+  "phasmophobia/grafton.webp": {
+    "source": "https://phasmophobia.fandom.com/wiki/Grafton_Farmhouse",
+    "image": "https://static.wikia.nocookie.net/phasmophobia/images/1/1c/Grafton_farmhouse_entrance_brightened.webp/revision/latest?cb=20250812232937",
+    "game": "Phasmophobia"
+  },
+  "phasmophobia/lobby.webp": {
+    "source": "https://phasmophobia.fandom.com/wiki/Lobby",
+    "image": "https://static.wikia.nocookie.net/phasmophobia/images/0/0c/Lobby_0.11.jpg/revision/latest?cb=20241118014134",
+    "game": "Phasmophobia"
+  },
+  "phasmophobia/maple-lodge.webp": {
+    "source": "https://phasmophobia.fandom.com/wiki/Maple_Lodge_Campsite",
+    "image": "https://static.wikia.nocookie.net/phasmophobia/images/9/9f/Maple-rework-main-shot.png/revision/latest?cb=20240112125636",
+    "game": "Phasmophobia"
+  },
+  "phasmophobia/nells-diner.webp": {
+    "source": "https://phasmophobia.fandom.com/wiki/Nell's_Diner",
+    "image": "https://static.wikia.nocookie.net/phasmophobia/images/b/bc/Nell%27s_Diner.png/revision/latest?cb=20251111161803",
+    "game": "Phasmophobia"
+  },
+  "phasmophobia/point-hope.webp": {
+    "source": "https://phasmophobia.fandom.com/wiki/Point_Hope",
+    "image": "https://static.wikia.nocookie.net/phasmophobia/images/6/60/PointHope_Top.png/revision/latest?cb=20260722093015",
+    "game": "Phasmophobia"
+  },
+  "phasmophobia/prison.webp": {
+    "source": "https://phasmophobia.fandom.com/wiki/File%3APrison_Entrance_available.png",
+    "image": "https://static.wikia.nocookie.net/phasmophobia/images/6/6c/Prison_Entrance_available.png/revision/latest?cb=20260918193851",
+    "game": "Phasmophobia"
+  },
+  "phasmophobia/ridgeview.webp": {
+    "source": "https://phasmophobia.fandom.com/wiki/10_Ridgeview_Court",
+    "image": "https://static.wikia.nocookie.net/phasmophobia/images/1/1e/Ridgeview_living_room.png/revision/latest?cb=20240112130102",
+    "game": "Phasmophobia"
+  },
+  "phasmophobia/sunny-meadows.webp": {
+    "source": "https://phasmophobia.fandom.com/wiki/Sunny_Meadows_Mental_Institution",
+    "image": "https://static.wikia.nocookie.net/phasmophobia/images/c/cb/Smmi_updated1.png/revision/latest?cb=20240112131752",
+    "game": "Phasmophobia"
+  },
+  "phasmophobia/tanglewood.webp": {
+    "source": "https://phasmophobia.fandom.com/wiki/6_Tanglewood_Drive",
+    "image": "https://static.wikia.nocookie.net/phasmophobia/images/a/a4/Tanglewood_Front.png/revision/latest?cb=20260303141434",
+    "game": "Phasmophobia"
+  },
+  "phasmophobia/training.webp": {
+    "source": "https://phasmophobia.fandom.com/wiki/Training",
+    "image": "https://static.wikia.nocookie.net/phasmophobia/images/7/7a/Warehouse_view.png/revision/latest?cb=20240112132548",
+    "game": "Phasmophobia"
+  },
+  "phasmophobia/willow.webp": {
+    "source": "https://phasmophobia.fandom.com/wiki/13_Willow_Street",
+    "image": "https://static.wikia.nocookie.net/phasmophobia/images/0/0c/Willow_new.png/revision/latest?cb=20260721130828",
+    "game": "Phasmophobia"
   },
   "repo/arctic.webp": {
     "source": "https://repogame.fandom.com/wiki/McJannek_Station",
@@ -161,12 +986,17 @@
   },
   "rv-there-yet/menu.webp": {
     "source": "https://store.steampowered.com/app/3949040",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/ed2f7080c6622688a72a86ca85af600f2a2bdfb9/ss_ed2f7080c6622688a72a86ca85af600f2a2bdfb9.1920x1080.jpg?t=1789134289",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/7d246f94e4ec2ff4c7be3ded82bcdd558274d7c7/ss_7d246f94e4ec2ff4c7be3ded82bcdd558274d7c7.1920x1080.jpg?t=1789134289",
     "game": "RV There Yet?"
   },
   "rv-there-yet/mt-yurbuttsk.webp": {
-    "source": "https://store.steampowered.com/app/3949040",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/aa6d58ff1f0eb5c5b3e6d7cc10c1576b62a745b0/ss_aa6d58ff1f0eb5c5b3e6d7cc10c1576b62a745b0.1920x1080.jpg?t=1789134289",
+    "source": "https://store.steampowered.com/news/app/3949040",
+    "image": "https://clan.akamai.steamstatic.com/images/45807571/8981c167b854c17caa77731d5403e5bd4a8bb22b.jpg",
+    "game": "RV There Yet?"
+  },
+  "rv-there-yet/st-buttin-bay.webp": {
+    "source": "https://store.steampowered.com/news/app/3949040",
+    "image": "https://clan.akamai.steamstatic.com/images/45807571/d3f9a0a0bf73727ca320caf280ed6642ac71f96c.png",
     "game": "RV There Yet?"
   },
   "satisfactory/menu.webp": {
@@ -234,6 +1064,71 @@
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/e631ef3b91faacacb5a2c823d0b979083548d66f/ss_e631ef3b91faacacb5a2c823d0b979083548d66f.1920x1080.jpg?t=1785967256",
     "game": "Subnautica 2"
   },
+  "tarkov/customs.webp": {
+    "source": "https://escapefromtarkov.fandom.com/wiki/File%3ACustoms_Showcase_1.png",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/67/Customs_Showcase_1.png/revision/latest?cb=20250316152159",
+    "game": "Escape from Tarkov"
+  },
+  "tarkov/factory.webp": {
+    "source": "https://escapefromtarkov.fandom.com/wiki/File%3AFactory_Showcase_1.png",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f1/Factory_Showcase_1.png/revision/latest?cb=20240825122753",
+    "game": "Escape from Tarkov"
+  },
+  "tarkov/ground-zero.webp": {
+    "source": "https://escapefromtarkov.fandom.com/wiki/File%3AGround_Zero_Showcase_1.png",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/Ground_Zero_Showcase_1.png/revision/latest?cb=20240121131611",
+    "game": "Escape from Tarkov"
+  },
+  "tarkov/icebreaker.webp": {
+    "source": "https://escapefromtarkov.fandom.com/wiki/File%3AIcebreaker_Showcase_5.png",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f3/Icebreaker_Showcase_5.png/revision/latest?cb=20260504165745",
+    "game": "Escape from Tarkov"
+  },
+  "tarkov/interchange.webp": {
+    "source": "https://escapefromtarkov.fandom.com/wiki/File%3AInterchange_Showcase_1.png",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7d/Interchange_Showcase_1.png/revision/latest?cb=20230730021446",
+    "game": "Escape from Tarkov"
+  },
+  "tarkov/lab.webp": {
+    "source": "https://escapefromtarkov.fandom.com/wiki/File%3AThe_Lab_Showcase_1.png",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5e/The_Lab_Showcase_1.png/revision/latest?cb=20230730023546",
+    "game": "Escape from Tarkov"
+  },
+  "tarkov/labyrinth.webp": {
+    "source": "https://escapefromtarkov.fandom.com/wiki/File%3AThe_Labyrinth_Showcase_1.png",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a3/The_Labyrinth_Showcase_1.png/revision/latest?cb=20250329015902",
+    "game": "Escape from Tarkov"
+  },
+  "tarkov/lighthouse.webp": {
+    "source": "https://escapefromtarkov.fandom.com/wiki/File%3ALighthouse_Showcase_1.png",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2e/Lighthouse_Showcase_1.png/revision/latest?cb=20230730032105",
+    "game": "Escape from Tarkov"
+  },
+  "tarkov/reserve.webp": {
+    "source": "https://escapefromtarkov.fandom.com/wiki/File%3AReserve_Showcase_1.png",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/02/Reserve_Showcase_1.png/revision/latest?cb=20230730025742",
+    "game": "Escape from Tarkov"
+  },
+  "tarkov/shoreline.webp": {
+    "source": "https://escapefromtarkov.fandom.com/wiki/File%3AShoreline_Showcase_1.png",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/dc/Shoreline_Showcase_1.png/revision/latest?cb=20230730014748",
+    "game": "Escape from Tarkov"
+  },
+  "tarkov/streets.webp": {
+    "source": "https://escapefromtarkov.fandom.com/wiki/File%3AStreets_of_Tarkov_Showcase_1.png",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c1/Streets_of_Tarkov_Showcase_1.png/revision/latest?cb=20230903143522",
+    "game": "Escape from Tarkov"
+  },
+  "tarkov/terminal.webp": {
+    "source": "https://escapefromtarkov.fandom.com/wiki/File%3ATerminal_Showcase_1.jpg",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c0/Terminal_Showcase_1.jpg/revision/latest?cb=20240826021257",
+    "game": "Escape from Tarkov"
+  },
+  "tarkov/woods.webp": {
+    "source": "https://escapefromtarkov.fandom.com/wiki/File%3AWoods_Showcase_1.png",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/46/Woods_Showcase_1.png/revision/latest?cb=20230730012947",
+    "game": "Escape from Tarkov"
+  },
   "valheim/ashlands.webp": {
     "source": "https://valheim.fandom.com/wiki/Ashlands",
     "image": "https://static.wikia.nocookie.net/valheim/images/5/56/Biome_ashlands.png/revision/latest?cb=20240501080655",
@@ -283,5 +1178,90 @@
     "source": "https://valheim.fandom.com/wiki/Swamp",
     "image": "https://static.wikia.nocookie.net/valheim/images/d/d4/Biome_swamp.png/revision/latest?cb=20210215131223",
     "game": "Valheim"
+  },
+  "warframe/ceres.webp": {
+    "source": "https://wiki.warframe.com/wiki/File%3ACeres.png",
+    "image": "https://wiki.warframe.com/images/Ceres.png?b5eca",
+    "game": "Warframe"
+  },
+  "warframe/deimos.webp": {
+    "source": "https://wiki.warframe.com/wiki/File%3ADeimos.png",
+    "image": "https://wiki.warframe.com/images/Deimos.png?50014",
+    "game": "Warframe"
+  },
+  "warframe/earth.webp": {
+    "source": "https://wiki.warframe.com/wiki/File%3AEarth.png",
+    "image": "https://wiki.warframe.com/images/Earth.png?6ac90",
+    "game": "Warframe"
+  },
+  "warframe/eris.webp": {
+    "source": "https://wiki.warframe.com/wiki/File%3AEris.png",
+    "image": "https://wiki.warframe.com/images/Eris.png?38e90",
+    "game": "Warframe"
+  },
+  "warframe/europa.webp": {
+    "source": "https://wiki.warframe.com/wiki/File%3AEuropa.png",
+    "image": "https://wiki.warframe.com/images/Europa.png?c6961",
+    "game": "Warframe"
+  },
+  "warframe/jupiter.webp": {
+    "source": "https://wiki.warframe.com/wiki/File%3AJupiter.png",
+    "image": "https://wiki.warframe.com/images/Jupiter.png?ddbb8",
+    "game": "Warframe"
+  },
+  "warframe/lua.webp": {
+    "source": "https://wiki.warframe.com/wiki/File%3ALua.png",
+    "image": "https://wiki.warframe.com/images/Lua.png?3fb40",
+    "game": "Warframe"
+  },
+  "warframe/mars.webp": {
+    "source": "https://wiki.warframe.com/wiki/File%3AMars.png",
+    "image": "https://wiki.warframe.com/images/Mars.png?5c448",
+    "game": "Warframe"
+  },
+  "warframe/mercury.webp": {
+    "source": "https://wiki.warframe.com/wiki/File%3AMercury.png",
+    "image": "https://wiki.warframe.com/images/Mercury.png?4a182",
+    "game": "Warframe"
+  },
+  "warframe/neptune.webp": {
+    "source": "https://wiki.warframe.com/wiki/File%3ANeptune.png",
+    "image": "https://wiki.warframe.com/images/Neptune.png?9fe71",
+    "game": "Warframe"
+  },
+  "warframe/phobos.webp": {
+    "source": "https://wiki.warframe.com/wiki/File%3APhobos.png",
+    "image": "https://wiki.warframe.com/images/Phobos.png?bd623",
+    "game": "Warframe"
+  },
+  "warframe/pluto.webp": {
+    "source": "https://wiki.warframe.com/wiki/File%3APluto.png",
+    "image": "https://wiki.warframe.com/images/Pluto.png?d9176",
+    "game": "Warframe"
+  },
+  "warframe/saturn.webp": {
+    "source": "https://wiki.warframe.com/wiki/File%3ASaturn.png",
+    "image": "https://wiki.warframe.com/images/Saturn.png?f2912",
+    "game": "Warframe"
+  },
+  "warframe/sedna.webp": {
+    "source": "https://wiki.warframe.com/wiki/File%3ASedna.png",
+    "image": "https://wiki.warframe.com/images/Sedna.png?277ee",
+    "game": "Warframe"
+  },
+  "warframe/uranus.webp": {
+    "source": "https://wiki.warframe.com/wiki/File%3AUranus.png",
+    "image": "https://wiki.warframe.com/images/Uranus.png?5e2cf",
+    "game": "Warframe"
+  },
+  "warframe/venus.webp": {
+    "source": "https://wiki.warframe.com/wiki/File%3AVenus.png",
+    "image": "https://wiki.warframe.com/images/Venus.png?0476e",
+    "game": "Warframe"
+  },
+  "warframe/void.webp": {
+    "source": "https://wiki.warframe.com/wiki/File%3AVoid.png",
+    "image": "https://wiki.warframe.com/images/Void.png?bcd31",
+    "game": "Warframe"
   }
 }

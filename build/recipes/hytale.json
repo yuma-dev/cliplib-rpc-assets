@@ -1,0 +1,16 @@
+{
+  "game": "hytale",
+  "name": "Hytale",
+  "wiki": "https://hytalewiki.org",
+  "discord_ids": [
+    "1458530944955973852"
+  ],
+  "items": [
+    {
+      "key": "orbis",
+      "label": "Orbis",
+      "file": "Hytale-wallpaper-1920x1080-005.jpg",
+      "focus": 0.5
+    }
+  ]
+}

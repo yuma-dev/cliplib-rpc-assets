@@ -4,6 +4,7 @@
 //   node build/build.mjs                  build every recipe (cached downloads are reused)
 //   node build/build.mjs repo peak        only these games
 //   node build/build.mjs discover <wiki> <Category:Name | search terms>
+//   node build/build.mjs check repo       build into build/.check/ only, index and credits untouched
 //
 // FFMPEG points at an ffmpeg with libwebp, else `ffmpeg` from PATH.
 
@@ -154,7 +155,7 @@ async function discover(wiki, what) {
   }
 }
 
-async function build(only) {
+async function build(only, dry = false) {
   const recipes = readdirSync(RECIPES)
     .filter((f) => f.endsWith(".json"))
     .map((f) => JSON.parse(readFileSync(join(RECIPES, f), "utf8")))
@@ -166,8 +167,9 @@ async function build(only) {
   const credits = existsSync(creditsPath) ? JSON.parse(readFileSync(creditsPath, "utf8")) : {};
   let failures = 0;
 
+  const out = dry ? join(ROOT, "build", ".check") : ROOT;
   for (const r of recipes) {
-    const dir = join(ROOT, r.game);
+    const dir = join(out, r.game);
     rmSync(dir, { recursive: true, force: true });
     const items = {};
     for (const item of r.items) {
@@ -175,7 +177,7 @@ async function build(only) {
       try {
         const src = await resolve(r, item);
         const raw = await download(src.url, src.page);
-        convert(raw, join(ROOT, file), item, (item.page || item.file) && !item.steam ? r.wiki_trim : undefined);
+        convert(raw, join(out, file), item, (item.page || item.file) && !item.steam ? r.wiki_trim : undefined);
         items[item.key] = { label: item.label, file, aliases: item.aliases ?? [] };
         credits[file] = { source: src.page, image: src.url, game: r.name };
         console.log(`ok   ${file}`);
@@ -193,6 +195,13 @@ async function build(only) {
     };
   }
 
+  if (dry) {
+    console.log(failures ? `
+${failures} failed` : `
+all good, see build/.check/`);
+    if (failures) process.exitCode = 1;
+    return;
+  }
   index.generated = new Date().toISOString().slice(0, 10);
   writeFileSync(indexPath, JSON.stringify(index, null, 2) + "\n");
   writeFileSync(creditsPath, JSON.stringify(Object.fromEntries(Object.entries(credits).sort()), null, 2) + "\n");
@@ -232,4 +241,5 @@ figcaption{margin-top:6px;line-height:1.35}i{color:#949ba4;font-size:11px}
 
 const [cmd, ...rest] = process.argv.slice(2);
 if (cmd === "discover") await discover(rest[0], rest.slice(1).join(" "));
+else if (cmd === "check") await build(rest, true);
 else await build([cmd, ...rest].filter(Boolean));

@@ -1,0 +1,129 @@
+{
+  "game": "path-of-exile",
+  "name": "Path of Exile 1 and 2",
+  "steam_appid": "238960",
+  "discord_ids": [
+    "356888453796986880",
+    "1328876348361412619"
+  ],
+  "items": [
+    {
+      "key": "poe1-marauder",
+      "label": "Marauder (PoE 1)",
+      "wiki": "https://www.poewiki.net",
+      "file": "Marauder character class.png",
+      "trim": {
+        "top": 0.055,
+        "bottom": 0.055
+      }
+    },
+    {
+      "key": "poe1-ranger",
+      "label": "Ranger (PoE 1)",
+      "wiki": "https://www.poewiki.net",
+      "file": "Ranger character class.png",
+      "trim": {
+        "top": 0.055,
+        "bottom": 0.055
+      }
+    },
+    {
+      "key": "poe1-witch",
+      "label": "Witch (PoE 1)",
+      "wiki": "https://www.poewiki.net",
+      "file": "Witch character class.png",
+      "trim": {
+        "top": 0.055,
+        "bottom": 0.055
+      }
+    },
+    {
+      "key": "poe1-duelist",
+      "label": "Duelist (PoE 1)",
+      "wiki": "https://www.poewiki.net",
+      "file": "Duelist character class.png",
+      "trim": {
+        "top": 0.055,
+        "bottom": 0.055
+      }
+    },
+    {
+      "key": "poe1-templar",
+      "label": "Templar (PoE 1)",
+      "wiki": "https://www.poewiki.net",
+      "file": "Templar character class.png",
+      "trim": {
+        "top": 0.055,
+        "bottom": 0.055
+      }
+    },
+    {
+      "key": "poe1-shadow",
+      "label": "Shadow (PoE 1)",
+      "wiki": "https://www.poewiki.net",
+      "file": "Shadow character class.png",
+      "trim": {
+        "top": 0.055,
+        "bottom": 0.055
+      }
+    },
+    {
+      "key": "poe1-scion",
+      "label": "Scion (PoE 1)",
+      "wiki": "https://www.poewiki.net",
+      "file": "Scion character class.png",
+      "trim": {
+        "top": 0.055,
+        "bottom": 0.055
+      }
+    },
+    {
+      "key": "poe2-warrior",
+      "label": "Warrior (PoE 2)",
+      "wiki": "https://www.poe2wiki.net",
+      "file": "Warrior portrait.png"
+    },
+    {
+      "key": "poe2-mercenary",
+      "label": "Mercenary (PoE 2)",
+      "wiki": "https://www.poe2wiki.net",
+      "file": "Mercenary portrait.png"
+    },
+    {
+      "key": "poe2-ranger",
+      "label": "Ranger (PoE 2)",
+      "wiki": "https://www.poe2wiki.net",
+      "file": "Ranger portrait.png"
+    },
+    {
+      "key": "poe2-monk",
+      "label": "Monk (PoE 2)",
+      "wiki": "https://www.poe2wiki.net",
+      "file": "Monk portrait.png"
+    },
+    {
+      "key": "poe2-sorceress",
+      "label": "Sorceress (PoE 2)",
+      "wiki": "https://www.poe2wiki.net",
+      "file": "Sorceress portrait.png"
+    },
+    {
+      "key": "poe2-witch",
+      "label": "Witch (PoE 2)",
+      "wiki": "https://www.poe2wiki.net",
+      "file": "Witch portrait.png"
+    },
+    {
+      "key": "poe2-huntress",
+      "label": "Huntress (PoE 2)",
+      "wiki": "https://www.poe2wiki.net",
+      "file": "Huntress portrait.png"
+    },
+    {
+      "key": "poe2-druid",
+      "label": "Druid (PoE 2)",
+      "wiki": "https://www.poe2wiki.net",
+      "file": "Druid portrait.png"
+    }
+  ]
+}

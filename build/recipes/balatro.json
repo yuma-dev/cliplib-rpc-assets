@@ -1,0 +1,460 @@
+{
+  "game": "balatro",
+  "name": "Balatro",
+  "steam_appid": "2379780",
+  "discord_ids": [
+    "1209665818464358430"
+  ],
+  "items": [
+    {
+      "key": "b_red",
+      "label": "Red Deck",
+      "url": "https://balatrowiki.org/images/Red_Deck.png",
+      "source": "https://balatrowiki.org/Red_Deck",
+      "aliases": [
+        "b_red",
+        "Red Deck"
+      ]
+    },
+    {
+      "key": "b_blue",
+      "label": "Blue Deck",
+      "url": "https://balatrowiki.org/images/Blue_Deck.png",
+      "source": "https://balatrowiki.org/Blue_Deck",
+      "aliases": [
+        "b_blue",
+        "Blue Deck"
+      ]
+    },
+    {
+      "key": "b_yellow",
+      "label": "Yellow Deck",
+      "url": "https://balatrowiki.org/images/Yellow_Deck.png",
+      "source": "https://balatrowiki.org/Yellow_Deck",
+      "aliases": [
+        "b_yellow",
+        "Yellow Deck"
+      ]
+    },
+    {
+      "key": "b_green",
+      "label": "Green Deck",
+      "url": "https://balatrowiki.org/images/Green_Deck.png",
+      "source": "https://balatrowiki.org/Green_Deck",
+      "aliases": [
+        "b_green",
+        "Green Deck"
+      ]
+    },
+    {
+      "key": "b_black",
+      "label": "Black Deck",
+      "url": "https://balatrowiki.org/images/Black_Deck.png",
+      "source": "https://balatrowiki.org/Black_Deck",
+      "aliases": [
+        "b_black",
+        "Black Deck"
+      ]
+    },
+    {
+      "key": "b_magic",
+      "label": "Magic Deck",
+      "url": "https://balatrowiki.org/images/Magic_Deck.png",
+      "source": "https://balatrowiki.org/Magic_Deck",
+      "aliases": [
+        "b_magic",
+        "Magic Deck"
+      ]
+    },
+    {
+      "key": "b_nebula",
+      "label": "Nebula Deck",
+      "url": "https://balatrowiki.org/images/Nebula_Deck.png",
+      "source": "https://balatrowiki.org/Nebula_Deck",
+      "aliases": [
+        "b_nebula",
+        "Nebula Deck"
+      ]
+    },
+    {
+      "key": "b_ghost",
+      "label": "Ghost Deck",
+      "url": "https://balatrowiki.org/images/Ghost_Deck.png",
+      "source": "https://balatrowiki.org/Ghost_Deck",
+      "aliases": [
+        "b_ghost",
+        "Ghost Deck"
+      ]
+    },
+    {
+      "key": "b_abandoned",
+      "label": "Abandoned Deck",
+      "url": "https://balatrowiki.org/images/Abandoned_Deck.png",
+      "source": "https://balatrowiki.org/Abandoned_Deck",
+      "aliases": [
+        "b_abandoned",
+        "Abandoned Deck"
+      ]
+    },
+    {
+      "key": "b_checkered",
+      "label": "Checkered Deck",
+      "url": "https://balatrowiki.org/images/Checkered_Deck.png",
+      "source": "https://balatrowiki.org/Checkered_Deck",
+      "aliases": [
+        "b_checkered",
+        "Checkered Deck"
+      ]
+    },
+    {
+      "key": "b_zodiac",
+      "label": "Zodiac Deck",
+      "url": "https://balatrowiki.org/images/Zodiac_Deck.png",
+      "source": "https://balatrowiki.org/Zodiac_Deck",
+      "aliases": [
+        "b_zodiac",
+        "Zodiac Deck"
+      ]
+    },
+    {
+      "key": "b_painted",
+      "label": "Painted Deck",
+      "url": "https://balatrowiki.org/images/Painted_Deck.png",
+      "source": "https://balatrowiki.org/Painted_Deck",
+      "aliases": [
+        "b_painted",
+        "Painted Deck"
+      ]
+    },
+    {
+      "key": "b_anaglyph",
+      "label": "Anaglyph Deck",
+      "url": "https://balatrowiki.org/images/Anaglyph_Deck.png",
+      "source": "https://balatrowiki.org/Anaglyph_Deck",
+      "aliases": [
+        "b_anaglyph",
+        "Anaglyph Deck"
+      ]
+    },
+    {
+      "key": "b_plasma",
+      "label": "Plasma Deck",
+      "url": "https://balatrowiki.org/images/Plasma_Deck.png",
+      "source": "https://balatrowiki.org/Plasma_Deck",
+      "aliases": [
+        "b_plasma",
+        "Plasma Deck"
+      ]
+    },
+    {
+      "key": "b_erratic",
+      "label": "Erratic Deck",
+      "url": "https://balatrowiki.org/images/Erratic_Deck.png",
+      "source": "https://balatrowiki.org/Erratic_Deck",
+      "aliases": [
+        "b_erratic",
+        "Erratic Deck"
+      ]
+    },
+    {
+      "key": "bl_small",
+      "label": "Small Blind",
+      "url": "https://balatrowiki.org/images/Small_Blind.png",
+      "source": "https://balatrowiki.org/Small_Blind",
+      "aliases": [
+        "bl_small",
+        "Small Blind"
+      ]
+    },
+    {
+      "key": "bl_big",
+      "label": "Big Blind",
+      "url": "https://balatrowiki.org/images/Big_Blind.png",
+      "source": "https://balatrowiki.org/Big_Blind",
+      "aliases": [
+        "bl_big",
+        "Big Blind"
+      ]
+    },
+    {
+      "key": "bl_ox",
+      "label": "The Ox",
+      "url": "https://balatrowiki.org/images/The_Ox.png",
+      "source": "https://balatrowiki.org/The_Ox",
+      "aliases": [
+        "bl_ox",
+        "The Ox"
+      ]
+    },
+    {
+      "key": "bl_hook",
+      "label": "The Hook",
+      "url": "https://balatrowiki.org/images/The_Hook.png",
+      "source": "https://balatrowiki.org/The_Hook",
+      "aliases": [
+        "bl_hook",
+        "The Hook"
+      ]
+    },
+    {
+      "key": "bl_mouth",
+      "label": "The Mouth",
+      "url": "https://balatrowiki.org/images/The_Mouth.png",
+      "source": "https://balatrowiki.org/The_Mouth",
+      "aliases": [
+        "bl_mouth",
+        "The Mouth"
+      ]
+    },
+    {
+      "key": "bl_fish",
+      "label": "The Fish",
+      "url": "https://balatrowiki.org/images/The_Fish.png",
+      "source": "https://balatrowiki.org/The_Fish",
+      "aliases": [
+        "bl_fish",
+        "The Fish"
+      ]
+    },
+    {
+      "key": "bl_club",
+      "label": "The Club",
+      "url": "https://balatrowiki.org/images/The_Club.png",
+      "source": "https://balatrowiki.org/The_Club",
+      "aliases": [
+        "bl_club",
+        "The Club"
+      ]
+    },
+    {
+      "key": "bl_manacle",
+      "label": "The Manacle",
+      "url": "https://balatrowiki.org/images/The_Manacle.png",
+      "source": "https://balatrowiki.org/The_Manacle",
+      "aliases": [
+        "bl_manacle",
+        "The Manacle"
+      ]
+    },
+    {
+      "key": "bl_tooth",
+      "label": "The Tooth",
+      "url": "https://balatrowiki.org/images/The_Tooth.png",
+      "source": "https://balatrowiki.org/The_Tooth",
+      "aliases": [
+        "bl_tooth",
+        "The Tooth"
+      ]
+    },
+    {
+      "key": "bl_wall",
+      "label": "The Wall",
+      "url": "https://balatrowiki.org/images/The_Wall.png",
+      "source": "https://balatrowiki.org/The_Wall",
+      "aliases": [
+        "bl_wall",
+        "The Wall"
+      ]
+    },
+    {
+      "key": "bl_house",
+      "label": "The House",
+      "url": "https://balatrowiki.org/images/The_House.png",
+      "source": "https://balatrowiki.org/The_House",
+      "aliases": [
+        "bl_house",
+        "The House"
+      ]
+    },
+    {
+      "key": "bl_mark",
+      "label": "The Mark",
+      "url": "https://balatrowiki.org/images/The_Mark.png",
+      "source": "https://balatrowiki.org/The_Mark",
+      "aliases": [
+        "bl_mark",
+        "The Mark"
+      ]
+    },
+    {
+      "key": "bl_wheel",
+      "label": "The Wheel",
+      "url": "https://balatrowiki.org/images/The_Wheel.png",
+      "source": "https://balatrowiki.org/The_Wheel",
+      "aliases": [
+        "bl_wheel",
+        "The Wheel"
+      ]
+    },
+    {
+      "key": "bl_arm",
+      "label": "The Arm",
+      "url": "https://balatrowiki.org/images/The_Arm.png",
+      "source": "https://balatrowiki.org/The_Arm",
+      "aliases": [
+        "bl_arm",
+        "The Arm"
+      ]
+    },
+    {
+      "key": "bl_psychic",
+      "label": "The Psychic",
+      "url": "https://balatrowiki.org/images/The_Psychic.png",
+      "source": "https://balatrowiki.org/The_Psychic",
+      "aliases": [
+        "bl_psychic",
+        "The Psychic"
+      ]
+    },
+    {
+      "key": "bl_goad",
+      "label": "The Goad",
+      "url": "https://balatrowiki.org/images/The_Goad.png",
+      "source": "https://balatrowiki.org/The_Goad",
+      "aliases": [
+        "bl_goad",
+        "The Goad"
+      ]
+    },
+    {
+      "key": "bl_water",
+      "label": "The Water",
+      "url": "https://balatrowiki.org/images/The_Water.png",
+      "source": "https://balatrowiki.org/The_Water",
+      "aliases": [
+        "bl_water",
+        "The Water"
+      ]
+    },
+    {
+      "key": "bl_eye",
+      "label": "The Eye",
+      "url": "https://balatrowiki.org/images/The_Eye.png",
+      "source": "https://balatrowiki.org/The_Eye",
+      "aliases": [
+        "bl_eye",
+        "The Eye"
+      ]
+    },
+    {
+      "key": "bl_plant",
+      "label": "The Plant",
+      "url": "https://balatrowiki.org/images/The_Plant.png",
+      "source": "https://balatrowiki.org/The_Plant",
+      "aliases": [
+        "bl_plant",
+        "The Plant"
+      ]
+    },
+    {
+      "key": "bl_needle",
+      "label": "The Needle",
+      "url": "https://balatrowiki.org/images/The_Needle.png",
+      "source": "https://balatrowiki.org/The_Needle",
+      "aliases": [
+        "bl_needle",
+        "The Needle"
+      ]
+    },
+    {
+      "key": "bl_head",
+      "label": "The Head",
+      "url": "https://balatrowiki.org/images/The_Head.png",
+      "source": "https://balatrowiki.org/The_Head",
+      "aliases": [
+        "bl_head",
+        "The Head"
+      ]
+    },
+    {
+      "key": "bl_window",
+      "label": "The Window",
+      "url": "https://balatrowiki.org/images/The_Window.png",
+      "source": "https://balatrowiki.org/The_Window",
+      "aliases": [
+        "bl_window",
+        "The Window"
+      ]
+    },
+    {
+      "key": "bl_serpent",
+      "label": "The Serpent",
+      "url": "https://balatrowiki.org/images/The_Serpent.png",
+      "source": "https://balatrowiki.org/The_Serpent",
+      "aliases": [
+        "bl_serpent",
+        "The Serpent"
+      ]
+    },
+    {
+      "key": "bl_pillar",
+      "label": "The Pillar",
+      "url": "https://balatrowiki.org/images/The_Pillar.png",
+      "source": "https://balatrowiki.org/The_Pillar",
+      "aliases": [
+        "bl_pillar",
+        "The Pillar"
+      ]
+    },
+    {
+      "key": "bl_flint",
+      "label": "The Flint",
+      "url": "https://balatrowiki.org/images/The_Flint.png",
+      "source": "https://balatrowiki.org/The_Flint",
+      "aliases": [
+        "bl_flint",
+        "The Flint"
+      ]
+    },
+    {
+      "key": "bl_final_bell",
+      "label": "Cerulean Bell",
+      "url": "https://balatrowiki.org/images/Cerulean_Bell.png",
+      "source": "https://balatrowiki.org/Cerulean_Bell",
+      "aliases": [
+        "bl_final_bell",
+        "Cerulean Bell"
+      ]
+    },
+    {
+      "key": "bl_final_leaf",
+      "label": "Verdant Leaf",
+      "url": "https://balatrowiki.org/images/Verdant_Leaf.png",
+      "source": "https://balatrowiki.org/Verdant_Leaf",
+      "aliases": [
+        "bl_final_leaf",
+        "Verdant Leaf"
+      ]
+    },
+    {
+      "key": "bl_final_vessel",
+      "label": "Violet Vessel",
+      "url": "https://balatrowiki.org/images/Violet_Vessel.png",
+      "source": "https://balatrowiki.org/Violet_Vessel",
+      "aliases": [
+        "bl_final_vessel",
+        "Violet Vessel"
+      ]
+    },
+    {
+      "key": "bl_final_acorn",
+      "label": "Amber Acorn",
+      "url": "https://balatrowiki.org/images/Amber_Acorn.png",
+      "source": "https://balatrowiki.org/Amber_Acorn",
+      "aliases": [
+        "bl_final_acorn",
+        "Amber Acorn"
+      ]
+    },
+    {
+      "key": "bl_final_heart",
+      "label": "Crimson Heart",
+      "url": "https://balatrowiki.org/images/Crimson_Heart.png",
+      "source": "https://balatrowiki.org/Crimson_Heart",
+      "aliases": [
+        "bl_final_heart",
+        "Crimson Heart"
+      ]
+    }
+  ]
+}

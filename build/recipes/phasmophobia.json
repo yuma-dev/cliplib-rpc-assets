@@ -1,0 +1,145 @@
+{
+  "game": "phasmophobia",
+  "name": "Phasmophobia",
+  "steam_appid": "739630",
+  "discord_ids": [
+    "1402418103702524046"
+  ],
+  "wiki": "https://phasmophobia.fandom.com",
+  "items": [
+    {
+      "key": "lobby",
+      "label": "Lobby",
+      "page": "Lobby",
+      "aliases": [
+        "Main Menu",
+        "Main_Menu"
+      ]
+    },
+    {
+      "key": "tanglewood",
+      "label": "6 Tanglewood Drive",
+      "page": "6 Tanglewood Drive",
+      "aliases": [
+        "TanglewoodStreetHouse",
+        "Tanglewood_Street_House"
+      ]
+    },
+    {
+      "key": "edgefield",
+      "label": "42 Edgefield Road",
+      "page": "42 Edgefield Road",
+      "aliases": [
+        "EdgefieldStreetHouse",
+        "Edgefield_Street_House"
+      ],
+      "focus": 0.0
+    },
+    {
+      "key": "ridgeview",
+      "label": "10 Ridgeview Court",
+      "page": "10 Ridgeview Court",
+      "aliases": [
+        "RidgeviewRoadHouse",
+        "Ridgeview_Road_House"
+      ]
+    },
+    {
+      "key": "willow",
+      "label": "13 Willow Street",
+      "page": "13 Willow Street",
+      "aliases": [
+        "WillowStreetHouse",
+        "Willow_Street_House"
+      ]
+    },
+    {
+      "key": "grafton",
+      "label": "Grafton Farmhouse",
+      "page": "Grafton Farmhouse",
+      "aliases": [
+        "GraftonFarmhouse",
+        "Grafton_Farmhouse"
+      ]
+    },
+    {
+      "key": "bleasdale",
+      "label": "Bleasdale Farmhouse",
+      "page": "Bleasdale Farmhouse",
+      "aliases": [
+        "BleasdaleFarmhouse",
+        "Bleasdale_Farmhouse"
+      ]
+    },
+    {
+      "key": "brownstone",
+      "label": "Brownstone High School",
+      "page": "Brownstone High School",
+      "aliases": [
+        "BrownstoneHighSchool",
+        "Brownstone_High_School"
+      ]
+    },
+    {
+      "key": "sunny-meadows",
+      "label": "Sunny Meadows",
+      "page": "Sunny Meadows Mental Institution",
+      "aliases": [
+        "Asylum",
+        "Sunny_Meadows"
+      ]
+    },
+    {
+      "key": "prison",
+      "label": "Prison",
+      "aliases": [
+        "Prison"
+      ],
+      "file": "Prison_Entrance_available.png"
+    },
+    {
+      "key": "maple-lodge",
+      "label": "Maple Lodge Campsite",
+      "page": "Maple Lodge Campsite",
+      "aliases": [
+        "MapleLodgeCampsite",
+        "Maple_Lodge_Campsite"
+      ]
+    },
+    {
+      "key": "camp-woodwind",
+      "label": "Camp Woodwind",
+      "page": "Camp Woodwind",
+      "aliases": [
+        "CampWoodwind",
+        "Camp_Woodwind"
+      ]
+    },
+    {
+      "key": "point-hope",
+      "label": "Point Hope",
+      "page": "Point Hope",
+      "aliases": [
+        "Point_Hope"
+      ],
+      "focus": 0.0
+    },
+    {
+      "key": "nells-diner",
+      "label": "Nell's Diner",
+      "page": "Nell's Diner",
+      "aliases": [
+        "Nells_Diner"
+      ]
+    },
+    {
+      "key": "training",
+      "label": "Training",
+      "page": "Training",
+      "aliases": [
+        "TutorialV2",
+        "Training"
+      ]
+    }
+  ]
+}

@@ -56,7 +56,10 @@
       "aliases": [
         "Level - Shop",
         "Level - Shop Forest",
-        "Level - Shop Suburb"
+        "Level - Shop Suburb",
+        "Level - Shop Harbor",
+        "Level - Shop Dead Forest",
+        "Level - Shop Wasteland"
       ]
     },
     {
@@ -65,7 +68,8 @@
       "file": "Disposal Arena.png",
       "aliases": [
         "Level - Arena",
-        "Level - Arena Fight"
+        "Level - Arena Fight",
+        "Level - Arena Race"
       ]
     }
   ],
