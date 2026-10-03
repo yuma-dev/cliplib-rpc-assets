@@ -7,6 +7,9 @@ or character you're on. Served through jsDelivr, pinned to a tag:
 https://cdn.jsdelivr.net/gh/yuma-dev/cliplib-rpc-assets@<tag>/<game>/<key>.webp
 ```
 
+`cliplib/` holds ClipLib's own art for browsing, watching and editing: 512 px animated WebP loops
+made from the app's interface, not built by the recipes below.
+
 `index.json` lists every game and image, with the names each game writes to its logs as `aliases`.
 `credits.json` has the source page of every image. `preview.html` shows the whole pack.
 
