@@ -1,12 +1,12 @@
 {
   "abiotic-factor/facility.webp": {
     "source": "https://store.steampowered.com/app/427410",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/702ec91ec4e414f11204895bf661ad3e0d84d69a/ss_702ec91ec4e414f11204895bf661ad3e0d84d69a.1920x1080.jpg?t=1788195774",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/702ec91ec4e414f11204895bf661ad3e0d84d69a/ss_702ec91ec4e414f11204895bf661ad3e0d84d69a.1920x1080.jpg?t=1793034207",
     "game": "Abiotic Factor"
   },
   "abiotic-factor/menu.webp": {
     "source": "https://store.steampowered.com/app/427410",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/ss_f57e6a13592c1dee5d903218e31d4add71dbaa83.1920x1080.jpg?t=1788195774",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/ss_f57e6a13592c1dee5d903218e31d4add71dbaa83.1920x1080.jpg?t=1793034207",
     "game": "Abiotic Factor"
   },
   "balatro/b_abandoned.webp": {
@@ -241,7 +241,7 @@
   },
   "elite-dangerous/alliance-challenger.webp": {
     "source": "https://elite-dangerous.fandom.com/wiki/Alliance_Challenger",
-    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/6/68/Alliance_Challenger.png/revision/latest?cb=20180531195849",
+    "image": "https://static.wikia.nocookie.net/elite-dangerous/images/6/68/Alliance_Challenger.png/revision/latest?cb=20261013010407",
     "game": "Elite Dangerous"
   },
   "elite-dangerous/alliance-chieftain.webp": {
@@ -956,7 +956,7 @@
   },
   "repo/lobby.webp": {
     "source": "https://store.steampowered.com/app/3241660",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_e6babaab52581f81df91e50768cee6a9334ef6ec.1920x1080.jpg?t=1778158882",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_e6babaab52581f81df91e50768cee6a9334ef6ec.1920x1080.jpg?t=1793278962",
     "game": "R.E.P.O."
   },
   "repo/manor.webp": {
@@ -1021,12 +1021,12 @@
   },
   "satisfactory/menu.webp": {
     "source": "https://store.steampowered.com/app/526870",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/ss_9083ccf8fbb22c4068a6e233e3de343f815f9dc1.1920x1080.jpg?t=1788349095",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/ss_9083ccf8fbb22c4068a6e233e3de343f815f9dc1.1920x1080.jpg?t=1791192059",
     "game": "Satisfactory"
   },
   "satisfactory/world.webp": {
     "source": "https://store.steampowered.com/app/526870",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/ss_b1104309f1c22c85de6ad6c401e6d889411c14d2.1920x1080.jpg?t=1788349095",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/ss_b1104309f1c22c85de6ad6c401e6d889411c14d2.1920x1080.jpg?t=1791192059",
     "game": "Satisfactory"
   },
   "slay-the-spire-2/defect.webp": {
@@ -1176,7 +1176,7 @@
   },
   "valheim/menu.webp": {
     "source": "https://store.steampowered.com/app/892970",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/5a31353178f635b67f0c8720ebb8a1a95b637276/ss_5a31353178f635b67f0c8720ebb8a1a95b637276.1920x1080.jpg?t=1790220314",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/5a31353178f635b67f0c8720ebb8a1a95b637276/ss_5a31353178f635b67f0c8720ebb8a1a95b637276.1920x1080.jpg?t=1791544831",
     "game": "Valheim"
   },
   "valheim/mistlands.webp": {
